@@ -1,0 +1,1706 @@
+Stress Test Results
+====================
+2024-12-05T15:23:18.060Z - Starting stress test...
+2024-12-05T15:23:18.192Z - Error for client 1client35: Request failed with status code 400
+2024-12-05T15:23:18.208Z - Configured MQTT client: 1client11
+2024-12-05T15:23:18.211Z - Error for client 1client14: Request failed with status code 400
+2024-12-05T15:23:18.212Z - Error for client 1client77: Request failed with status code 400
+2024-12-05T15:23:18.213Z - Configured MQTT client: 1client13
+2024-12-05T15:23:18.214Z - Configured MQTT client: 1client2
+2024-12-05T15:23:18.216Z - Configured MQTT client: 1client10
+2024-12-05T15:23:18.228Z - Configured MQTT client: 1client3
+2024-12-05T15:23:18.231Z - Configured MQTT client: 1client0
+2024-12-05T15:23:18.239Z - Error for client 1client78: Request failed with status code 400
+2024-12-05T15:23:18.241Z - Configured MQTT client: 1client20
+2024-12-05T15:23:18.244Z - Configured MQTT client: 1client25
+2024-12-05T15:23:18.247Z - Configured MQTT client: 1client22
+2024-12-05T15:23:18.252Z - Configured MQTT client: 1client4
+2024-12-05T15:23:18.257Z - Error for client 1client43: Request failed with status code 400
+2024-12-05T15:23:18.262Z - Configured MQTT client: 1client26
+2024-12-05T15:23:18.263Z - Configured MQTT client: 1client27
+2024-12-05T15:23:18.270Z - Client 1client3 subscribed to topic: test1/topic/3
+2024-12-05T15:23:18.314Z - Configured MQTT client: 1client79
+2024-12-05T15:23:18.316Z - Configured MQTT client: 1client95
+2024-12-05T15:23:18.317Z - Client 1client11 subscribed to topic: test1/topic/11
+2024-12-05T15:23:18.318Z - Configured MQTT client: 1client30
+2024-12-05T15:23:18.320Z - Configured MQTT client: 1client5
+2024-12-05T15:23:18.322Z - Configured MQTT client: 1client38
+2024-12-05T15:23:18.324Z - Configured MQTT client: 1client6
+2024-12-05T15:23:18.325Z - Configured MQTT client: 1client39
+2024-12-05T15:23:18.327Z - Configured MQTT client: 1client8
+2024-12-05T15:23:18.329Z - Configured MQTT client: 1client81
+2024-12-05T15:23:18.330Z - Error for client 1client66: Request failed with status code 400
+2024-12-05T15:23:18.331Z - Client 1client13 subscribed to topic: test1/topic/13
+2024-12-05T15:23:18.333Z - Configured MQTT client: 1client89
+2024-12-05T15:23:18.334Z - Error for client 1client69: Request failed with status code 400
+2024-12-05T15:23:18.335Z - Client 1client20 subscribed to topic: test1/topic/20
+2024-12-05T15:23:18.336Z - Client 1client25 subscribed to topic: test1/topic/25
+2024-12-05T15:23:18.338Z - Configured MQTT client: 1client1
+2024-12-05T15:23:18.341Z - Configured MQTT client: 1client7
+2024-12-05T15:23:18.342Z - Configured MQTT client: 1client23
+2024-12-05T15:23:18.343Z - Client 1client22 subscribed to topic: test1/topic/22
+2024-12-05T15:23:18.344Z - Configured MQTT client: 1client9
+2024-12-05T15:23:18.346Z - Configured MQTT client: 1client32
+2024-12-05T15:23:18.347Z - Error for client 1client83: Request failed with status code 400
+2024-12-05T15:23:18.348Z - Error for client 1client90: Request failed with status code 400
+2024-12-05T15:23:18.355Z - Error for client 1client91: Request failed with status code 400
+2024-12-05T15:23:18.356Z - Configured MQTT client: 1client80
+2024-12-05T15:23:18.358Z - Error for client 1client98: Request failed with status code 400
+2024-12-05T15:23:18.359Z - Client 1client27 subscribed to topic: test1/topic/27
+2024-12-05T15:23:18.360Z - Configured MQTT client: 1client88
+2024-12-05T15:23:18.361Z - Configured MQTT client: 1client92
+2024-12-05T15:23:18.362Z - Client 1client26 subscribed to topic: test1/topic/26
+2024-12-05T15:23:18.364Z - Configured MQTT client: 1client96
+2024-12-05T15:23:18.365Z - Client 1client0 subscribed to topic: test1/topic/0
+2024-12-05T15:23:18.367Z - Configured MQTT client: 1client97
+2024-12-05T15:23:18.368Z - Client 1client4 subscribed to topic: test1/topic/4
+2024-12-05T15:23:18.370Z - Configured MQTT client: 1client21
+2024-12-05T15:23:18.371Z - Configured MQTT client: 1client31
+2024-12-05T15:23:18.372Z - Configured MQTT client: 1client19
+2024-12-05T15:23:18.373Z - Configured MQTT client: 1client40
+2024-12-05T15:23:18.375Z - Configured MQTT client: 1client29
+2024-12-05T15:23:18.376Z - Configured MQTT client: 1client41
+2024-12-05T15:23:18.377Z - Configured MQTT client: 1client99
+2024-12-05T15:23:18.378Z - Client 1client79 subscribed to topic: test1/topic/79
+2024-12-05T15:23:18.379Z - Configured MQTT client: 1client94
+2024-12-05T15:23:18.380Z - Client 1client95 subscribed to topic: test1/topic/95
+2024-12-05T15:23:18.381Z - Client 1client30 subscribed to topic: test1/topic/30
+2024-12-05T15:23:18.383Z - Client 1client38 subscribed to topic: test1/topic/38
+2024-12-05T15:23:18.384Z - Client 1client5 subscribed to topic: test1/topic/5
+2024-12-05T15:23:18.385Z - Configured MQTT client: 1client12
+2024-12-05T15:23:18.386Z - Client 1client6 subscribed to topic: test1/topic/6
+2024-12-05T15:23:18.387Z - Client 1client39 subscribed to topic: test1/topic/39
+2024-12-05T15:23:18.388Z - Configured MQTT client: 1client15
+2024-12-05T15:23:18.389Z - Configured MQTT client: 1client16
+2024-12-05T15:23:18.390Z - Client 1client8 subscribed to topic: test1/topic/8
+2024-12-05T15:23:18.391Z - Client 1client81 subscribed to topic: test1/topic/81
+2024-12-05T15:23:18.392Z - Configured MQTT client: 1client17
+2024-12-05T15:23:18.393Z - Configured MQTT client: 1client18
+2024-12-05T15:23:18.394Z - Configured MQTT client: 1client28
+2024-12-05T15:23:18.395Z - Configured MQTT client: 1client34
+2024-12-05T15:23:18.396Z - Configured MQTT client: 1client36
+2024-12-05T15:23:18.398Z - Configured MQTT client: 1client86
+2024-12-05T15:23:18.399Z - Configured MQTT client: 1client87
+2024-12-05T15:23:18.401Z - Configured MQTT client: 1client93
+2024-12-05T15:23:18.402Z - Client 1client1 subscribed to topic: test1/topic/1
+2024-12-05T15:23:18.405Z - Configured MQTT client: 1client37
+2024-12-05T15:23:18.407Z - Client 1client7 subscribed to topic: test1/topic/7
+2024-12-05T15:23:18.408Z - Client 1client23 subscribed to topic: test1/topic/23
+2024-12-05T15:23:18.409Z - Configured MQTT client: 1client46
+2024-12-05T15:23:18.409Z - Client 1client89 subscribed to topic: test1/topic/89
+2024-12-05T15:23:18.410Z - Configured MQTT client: 1client47
+2024-12-05T15:23:18.412Z - Client 1client32 subscribed to topic: test1/topic/32
+2024-12-05T15:23:18.413Z - Client 1client9 subscribed to topic: test1/topic/9
+2024-12-05T15:23:18.414Z - Configured MQTT client: 1client48
+2024-12-05T15:23:18.415Z - Configured MQTT client: 1client50
+2024-12-05T15:23:18.416Z - Client 1client80 subscribed to topic: test1/topic/80
+2024-12-05T15:23:18.417Z - Client 1client88 subscribed to topic: test1/topic/88
+2024-12-05T15:23:18.418Z - Client 1client10 subscribed to topic: test1/topic/10
+2024-12-05T15:23:18.419Z - Configured MQTT client: 1client24
+2024-12-05T15:23:18.420Z - Client 1client2 subscribed to topic: test1/topic/2
+2024-12-05T15:23:18.421Z - Configured MQTT client: 1client33
+2024-12-05T15:23:18.422Z - Client 1client92 subscribed to topic: test1/topic/92
+2024-12-05T15:23:18.423Z - Configured MQTT client: 1client42
+2024-12-05T15:23:18.424Z - Configured MQTT client: 1client44
+2024-12-05T15:23:18.425Z - Client 1client96 subscribed to topic: test1/topic/96
+2024-12-05T15:23:18.426Z - Client 1client21 subscribed to topic: test1/topic/21
+2024-12-05T15:23:18.427Z - Configured MQTT client: 1client45
+2024-12-05T15:23:18.428Z - Configured MQTT client: 1client84
+2024-12-05T15:23:18.429Z - Configured MQTT client: 1client85
+2024-12-05T15:23:18.430Z - Configured MQTT client: 1client49
+2024-12-05T15:23:18.431Z - Client 1client31 subscribed to topic: test1/topic/31
+2024-12-05T15:23:18.432Z - Client 1client19 subscribed to topic: test1/topic/19
+2024-12-05T15:23:18.433Z - Client 1client97 subscribed to topic: test1/topic/97
+2024-12-05T15:23:18.434Z - Configured MQTT client: 1client51
+2024-12-05T15:23:18.435Z - Configured MQTT client: 1client52
+2024-12-05T15:23:18.436Z - Client 1client40 subscribed to topic: test1/topic/40
+2024-12-05T15:23:18.436Z - Configured MQTT client: 1client53
+2024-12-05T15:23:18.438Z - Client 1client29 subscribed to topic: test1/topic/29
+2024-12-05T15:23:18.438Z - Configured MQTT client: 1client54
+2024-12-05T15:23:18.439Z - Configured MQTT client: 1client55
+2024-12-05T15:23:18.440Z - Client 1client41 subscribed to topic: test1/topic/41
+2024-12-05T15:23:18.441Z - Client 1client99 subscribed to topic: test1/topic/99
+2024-12-05T15:23:18.442Z - Configured MQTT client: 1client56
+2024-12-05T15:23:18.443Z - Configured MQTT client: 1client57
+2024-12-05T15:23:18.444Z - Client 1client94 subscribed to topic: test1/topic/94
+2024-12-05T15:23:18.445Z - Configured MQTT client: 1client58
+2024-12-05T15:23:18.446Z - Configured MQTT client: 1client59
+2024-12-05T15:23:18.447Z - Configured MQTT client: 1client60
+2024-12-05T15:23:18.449Z - Configured MQTT client: 1client61
+2024-12-05T15:23:18.450Z - Client 1client12 subscribed to topic: test1/topic/12
+2024-12-05T15:23:18.451Z - Configured MQTT client: 1client62
+2024-12-05T15:23:18.452Z - Configured MQTT client: 1client63
+2024-12-05T15:23:18.453Z - Configured MQTT client: 1client64
+2024-12-05T15:23:18.454Z - Configured MQTT client: 1client65
+2024-12-05T15:23:18.455Z - Configured MQTT client: 1client67
+2024-12-05T15:23:18.456Z - Client 1client16 subscribed to topic: test1/topic/16
+2024-12-05T15:23:18.457Z - Configured MQTT client: 1client68
+2024-12-05T15:23:18.458Z - Client 1client15 subscribed to topic: test1/topic/15
+2024-12-05T15:23:18.459Z - Configured MQTT client: 1client70
+2024-12-05T15:23:18.460Z - Configured MQTT client: 1client82
+2024-12-05T15:23:18.461Z - Configured MQTT client: 1client71
+2024-12-05T15:23:18.462Z - Configured MQTT client: 1client72
+2024-12-05T15:23:18.465Z - MQTT client 1client3 connected
+2024-12-05T15:23:18.466Z - MQTT client 1client11 connected
+2024-12-05T15:23:18.467Z - Configured MQTT client: 1client73
+2024-12-05T15:23:18.468Z - MQTT client 1client13 connected
+2024-12-05T15:23:18.469Z - MQTT client 1client20 connected
+2024-12-05T15:23:18.469Z - Configured MQTT client: 1client74
+2024-12-05T15:23:18.470Z - MQTT client 1client25 connected
+2024-12-05T15:23:18.471Z - Client 1client17 subscribed to topic: test1/topic/17
+2024-12-05T15:23:18.472Z - Client 1client28 subscribed to topic: test1/topic/28
+2024-12-05T15:23:18.477Z - Client 1client18 subscribed to topic: test1/topic/18
+2024-12-05T15:23:18.478Z - Client 1client34 subscribed to topic: test1/topic/34
+2024-12-05T15:23:18.479Z - Client 1client36 subscribed to topic: test1/topic/36
+2024-12-05T15:23:18.479Z - Client 1client86 subscribed to topic: test1/topic/86
+2024-12-05T15:23:18.480Z - Configured MQTT client: 1client75
+2024-12-05T15:23:18.481Z - Client 1client87 subscribed to topic: test1/topic/87
+2024-12-05T15:23:18.482Z - Configured MQTT client: 1client76
+2024-12-05T15:23:18.483Z - Client 1client93 subscribed to topic: test1/topic/93
+2024-12-05T15:23:18.484Z - Client 1client46 subscribed to topic: test1/topic/46
+2024-12-05T15:23:18.485Z - Client 1client37 subscribed to topic: test1/topic/37
+2024-12-05T15:23:18.486Z - Client 1client24 subscribed to topic: test1/topic/24
+2024-12-05T15:23:18.487Z - Client 1client47 subscribed to topic: test1/topic/47
+2024-12-05T15:23:18.488Z - Client 1client33 subscribed to topic: test1/topic/33
+2024-12-05T15:23:18.489Z - Client 1client48 subscribed to topic: test1/topic/48
+2024-12-05T15:23:18.489Z - Client 1client50 subscribed to topic: test1/topic/50
+2024-12-05T15:23:18.490Z - Client 1client42 subscribed to topic: test1/topic/42
+2024-12-05T15:23:18.491Z - Client 1client44 subscribed to topic: test1/topic/44
+2024-12-05T15:23:18.491Z - Client 1client45 subscribed to topic: test1/topic/45
+2024-12-05T15:23:18.492Z - Client 1client84 subscribed to topic: test1/topic/84
+2024-12-05T15:23:18.493Z - Client 1client85 subscribed to topic: test1/topic/85
+2024-12-05T15:23:18.494Z - Client 1client49 subscribed to topic: test1/topic/49
+2024-12-05T15:23:18.494Z - Client 1client51 subscribed to topic: test1/topic/51
+2024-12-05T15:23:18.495Z - Client 1client52 subscribed to topic: test1/topic/52
+2024-12-05T15:23:18.496Z - Client 1client53 subscribed to topic: test1/topic/53
+2024-12-05T15:23:18.496Z - Client 1client54 subscribed to topic: test1/topic/54
+2024-12-05T15:23:18.497Z - Client 1client55 subscribed to topic: test1/topic/55
+2024-12-05T15:23:18.498Z - Client 1client56 subscribed to topic: test1/topic/56
+2024-12-05T15:23:18.499Z - Client 1client57 subscribed to topic: test1/topic/57
+2024-12-05T15:23:18.499Z - Client 1client58 subscribed to topic: test1/topic/58
+2024-12-05T15:23:18.502Z - Client 1client59 subscribed to topic: test1/topic/59
+2024-12-05T15:23:18.502Z - Client 1client60 subscribed to topic: test1/topic/60
+2024-12-05T15:23:18.503Z - Client 1client62 subscribed to topic: test1/topic/62
+2024-12-05T15:23:18.504Z - Client 1client61 subscribed to topic: test1/topic/61
+2024-12-05T15:23:18.505Z - Client 1client65 subscribed to topic: test1/topic/65
+2024-12-05T15:23:18.505Z - Client 1client63 subscribed to topic: test1/topic/63
+2024-12-05T15:23:18.506Z - Client 1client67 subscribed to topic: test1/topic/67
+2024-12-05T15:23:18.507Z - Client 1client64 subscribed to topic: test1/topic/64
+2024-12-05T15:23:18.508Z - Client 1client70 subscribed to topic: test1/topic/70
+2024-12-05T15:23:18.509Z - Client 1client82 subscribed to topic: test1/topic/82
+2024-12-05T15:23:18.509Z - Client 1client68 subscribed to topic: test1/topic/68
+2024-12-05T15:23:18.510Z - Client 1client72 subscribed to topic: test1/topic/72
+2024-12-05T15:23:18.510Z - Client 1client71 subscribed to topic: test1/topic/71
+2024-12-05T15:23:18.516Z - Client 1client73 subscribed to topic: test1/topic/73
+2024-12-05T15:23:18.517Z - Client 1client74 subscribed to topic: test1/topic/74
+2024-12-05T15:23:18.517Z - MQTT client 1client22 connected
+2024-12-05T15:23:18.518Z - MQTT client 1client27 connected
+2024-12-05T15:23:18.518Z - MQTT client 1client26 connected
+2024-12-05T15:23:18.519Z - MQTT client 1client0 connected
+2024-12-05T15:23:18.520Z - MQTT client 1client4 connected
+2024-12-05T15:23:18.520Z - MQTT client 1client79 connected
+2024-12-05T15:23:18.521Z - MQTT client 1client95 connected
+2024-12-05T15:23:18.521Z - MQTT client 1client30 connected
+2024-12-05T15:23:18.521Z - MQTT client 1client38 connected
+2024-12-05T15:23:18.522Z - MQTT client 1client5 connected
+2024-12-05T15:23:18.522Z - MQTT client 1client6 connected
+2024-12-05T15:23:18.522Z - MQTT client 1client39 connected
+2024-12-05T15:23:18.523Z - MQTT client 1client8 connected
+2024-12-05T15:23:18.523Z - MQTT client 1client81 connected
+2024-12-05T15:23:18.524Z - Client 1client75 subscribed to topic: test1/topic/75
+2024-12-05T15:23:18.525Z - Client 1client76 subscribed to topic: test1/topic/76
+2024-12-05T15:23:18.525Z - Stress test initialized. Monitor the server performance.
+2024-12-05T15:23:18.528Z - MQTT client 1client1 connected
+2024-12-05T15:23:18.528Z - MQTT client 1client7 connected
+2024-12-05T15:23:18.528Z - MQTT client 1client23 connected
+2024-12-05T15:23:18.529Z - MQTT client 1client89 connected
+2024-12-05T15:23:18.529Z - MQTT client 1client32 connected
+2024-12-05T15:23:18.529Z - MQTT client 1client9 connected
+2024-12-05T15:23:18.530Z - MQTT client 1client80 connected
+2024-12-05T15:23:18.530Z - MQTT client 1client88 connected
+2024-12-05T15:23:18.530Z - MQTT client 1client10 connected
+2024-12-05T15:23:18.531Z - MQTT client 1client2 connected
+2024-12-05T15:23:18.531Z - MQTT client 1client92 connected
+2024-12-05T15:23:18.532Z - MQTT client 1client96 connected
+2024-12-05T15:23:18.532Z - MQTT client 1client21 connected
+2024-12-05T15:23:18.532Z - MQTT client 1client31 connected
+2024-12-05T15:23:18.532Z - MQTT client 1client19 connected
+2024-12-05T15:23:18.533Z - MQTT client 1client97 connected
+2024-12-05T15:23:18.533Z - MQTT client 1client40 connected
+2024-12-05T15:23:18.533Z - MQTT client 1client29 connected
+2024-12-05T15:23:18.533Z - MQTT client 1client41 connected
+2024-12-05T15:23:18.534Z - MQTT client 1client99 connected
+2024-12-05T15:23:18.534Z - MQTT client 1client94 connected
+2024-12-05T15:23:18.534Z - MQTT client 1client12 connected
+2024-12-05T15:23:18.535Z - MQTT client 1client16 connected
+2024-12-05T15:23:18.535Z - MQTT client 1client15 connected
+2024-12-05T15:23:18.535Z - MQTT client 1client17 connected
+2024-12-05T15:23:18.536Z - MQTT client 1client28 connected
+2024-12-05T15:23:18.536Z - MQTT client 1client18 connected
+2024-12-05T15:23:18.537Z - MQTT client 1client34 connected
+2024-12-05T15:23:18.537Z - MQTT client 1client36 connected
+2024-12-05T15:23:18.537Z - MQTT client 1client86 connected
+2024-12-05T15:23:18.538Z - MQTT client 1client87 connected
+2024-12-05T15:23:18.538Z - MQTT client 1client93 connected
+2024-12-05T15:23:18.538Z - MQTT client 1client46 connected
+2024-12-05T15:23:18.539Z - MQTT client 1client37 connected
+2024-12-05T15:23:18.539Z - MQTT client 1client24 connected
+2024-12-05T15:23:18.540Z - MQTT client 1client47 connected
+2024-12-05T15:23:18.540Z - MQTT client 1client33 connected
+2024-12-05T15:23:18.541Z - MQTT client 1client48 connected
+2024-12-05T15:23:18.541Z - MQTT client 1client50 connected
+2024-12-05T15:23:18.541Z - MQTT client 1client42 connected
+2024-12-05T15:23:18.542Z - MQTT client 1client44 connected
+2024-12-05T15:23:18.542Z - MQTT client 1client45 connected
+2024-12-05T15:23:18.543Z - MQTT client 1client84 connected
+2024-12-05T15:23:18.543Z - MQTT client 1client85 connected
+2024-12-05T15:23:18.543Z - MQTT client 1client49 connected
+2024-12-05T15:23:18.544Z - MQTT client 1client51 connected
+2024-12-05T15:23:18.544Z - MQTT client 1client52 connected
+2024-12-05T15:23:18.544Z - MQTT client 1client53 connected
+2024-12-05T15:23:18.545Z - MQTT client 1client54 connected
+2024-12-05T15:23:18.545Z - MQTT client 1client55 connected
+2024-12-05T15:23:18.545Z - MQTT client 1client56 connected
+2024-12-05T15:23:18.546Z - MQTT client 1client57 connected
+2024-12-05T15:23:18.546Z - MQTT client 1client58 connected
+2024-12-05T15:23:18.546Z - MQTT client 1client59 connected
+2024-12-05T15:23:18.547Z - MQTT client 1client60 connected
+2024-12-05T15:23:18.547Z - MQTT client 1client62 connected
+2024-12-05T15:23:18.547Z - MQTT client 1client61 connected
+2024-12-05T15:23:18.548Z - MQTT client 1client65 connected
+2024-12-05T15:23:18.548Z - MQTT client 1client63 connected
+2024-12-05T15:23:18.549Z - MQTT client 1client67 connected
+2024-12-05T15:23:18.549Z - MQTT client 1client64 connected
+2024-12-05T15:23:18.549Z - MQTT client 1client70 connected
+2024-12-05T15:23:18.550Z - MQTT client 1client82 connected
+2024-12-05T15:23:18.550Z - MQTT client 1client68 connected
+2024-12-05T15:23:18.550Z - MQTT client 1client72 connected
+2024-12-05T15:23:18.551Z - MQTT client 1client71 connected
+2024-12-05T15:23:18.551Z - MQTT client 1client73 connected
+2024-12-05T15:23:18.551Z - MQTT client 1client74 connected
+2024-12-05T15:23:18.552Z - MQTT client 1client75 connected
+2024-12-05T15:23:18.552Z - MQTT client 1client76 connected
+2024-12-05T15:23:19.480Z - MQTT client 1client3 published to topic: test1/topic/3
+2024-12-05T15:23:19.481Z - MQTT client 1client11 published to topic: test1/topic/11
+2024-12-05T15:23:19.487Z - MQTT client 1client13 published to topic: test1/topic/13
+2024-12-05T15:23:19.490Z - MQTT client 1client20 published to topic: test1/topic/20
+2024-12-05T15:23:19.495Z - MQTT client 1client25 published to topic: test1/topic/25
+2024-12-05T15:23:19.522Z - MQTT client 1client22 published to topic: test1/topic/22
+2024-12-05T15:23:19.523Z - MQTT client 1client27 published to topic: test1/topic/27
+2024-12-05T15:23:19.524Z - MQTT client 1client26 published to topic: test1/topic/26
+2024-12-05T15:23:19.525Z - MQTT client 1client0 published to topic: test1/topic/0
+2024-12-05T15:23:19.525Z - MQTT client 1client4 published to topic: test1/topic/4
+2024-12-05T15:23:19.526Z - MQTT client 1client79 published to topic: test1/topic/79
+2024-12-05T15:23:19.527Z - MQTT client 1client95 published to topic: test1/topic/95
+2024-12-05T15:23:19.528Z - MQTT client 1client30 published to topic: test1/topic/30
+2024-12-05T15:23:19.530Z - MQTT client 1client38 published to topic: test1/topic/38
+2024-12-05T15:23:19.531Z - MQTT client 1client5 published to topic: test1/topic/5
+2024-12-05T15:23:19.531Z - MQTT client 1client6 published to topic: test1/topic/6
+2024-12-05T15:23:19.532Z - MQTT client 1client39 published to topic: test1/topic/39
+2024-12-05T15:23:19.533Z - MQTT client 1client8 published to topic: test1/topic/8
+2024-12-05T15:23:19.534Z - MQTT client 1client81 published to topic: test1/topic/81
+2024-12-05T15:23:19.534Z - MQTT client 1client1 published to topic: test1/topic/1
+2024-12-05T15:23:19.535Z - MQTT client 1client7 published to topic: test1/topic/7
+2024-12-05T15:23:19.536Z - MQTT client 1client23 published to topic: test1/topic/23
+2024-12-05T15:23:19.536Z - MQTT client 1client89 published to topic: test1/topic/89
+2024-12-05T15:23:19.536Z - MQTT client 1client32 published to topic: test1/topic/32
+2024-12-05T15:23:19.537Z - MQTT client 1client9 published to topic: test1/topic/9
+2024-12-05T15:23:19.538Z - MQTT client 1client80 published to topic: test1/topic/80
+2024-12-05T15:23:19.538Z - MQTT client 1client88 published to topic: test1/topic/88
+2024-12-05T15:23:19.539Z - MQTT client 1client10 published to topic: test1/topic/10
+2024-12-05T15:23:19.540Z - MQTT client 1client2 published to topic: test1/topic/2
+2024-12-05T15:23:19.540Z - MQTT client 1client92 published to topic: test1/topic/92
+2024-12-05T15:23:19.546Z - MQTT client 1client96 published to topic: test1/topic/96
+2024-12-05T15:23:19.548Z - MQTT client 1client21 published to topic: test1/topic/21
+2024-12-05T15:23:19.548Z - MQTT client 1client31 published to topic: test1/topic/31
+2024-12-05T15:23:19.549Z - MQTT client 1client19 published to topic: test1/topic/19
+2024-12-05T15:23:19.549Z - MQTT client 1client97 published to topic: test1/topic/97
+2024-12-05T15:23:19.550Z - MQTT client 1client40 published to topic: test1/topic/40
+2024-12-05T15:23:19.550Z - MQTT client 1client29 published to topic: test1/topic/29
+2024-12-05T15:23:19.550Z - MQTT client 1client41 published to topic: test1/topic/41
+2024-12-05T15:23:19.551Z - MQTT client 1client99 published to topic: test1/topic/99
+2024-12-05T15:23:19.551Z - MQTT client 1client94 published to topic: test1/topic/94
+2024-12-05T15:23:19.551Z - MQTT client 1client12 published to topic: test1/topic/12
+2024-12-05T15:23:19.552Z - MQTT client 1client16 published to topic: test1/topic/16
+2024-12-05T15:23:19.553Z - MQTT client 1client15 published to topic: test1/topic/15
+2024-12-05T15:23:19.555Z - MQTT client 1client17 published to topic: test1/topic/17
+2024-12-05T15:23:19.556Z - MQTT client 1client28 published to topic: test1/topic/28
+2024-12-05T15:23:19.556Z - MQTT client 1client18 published to topic: test1/topic/18
+2024-12-05T15:23:19.557Z - MQTT client 1client34 published to topic: test1/topic/34
+2024-12-05T15:23:19.557Z - MQTT client 1client36 published to topic: test1/topic/36
+2024-12-05T15:23:19.558Z - MQTT client 1client86 published to topic: test1/topic/86
+2024-12-05T15:23:19.560Z - MQTT client 1client87 published to topic: test1/topic/87
+2024-12-05T15:23:19.560Z - MQTT client 1client93 published to topic: test1/topic/93
+2024-12-05T15:23:19.561Z - MQTT client 1client46 published to topic: test1/topic/46
+2024-12-05T15:23:19.561Z - MQTT client 1client37 published to topic: test1/topic/37
+2024-12-05T15:23:19.561Z - MQTT client 1client24 published to topic: test1/topic/24
+2024-12-05T15:23:19.562Z - MQTT client 1client47 published to topic: test1/topic/47
+2024-12-05T15:23:19.562Z - MQTT client 1client33 published to topic: test1/topic/33
+2024-12-05T15:23:19.563Z - MQTT client 1client48 published to topic: test1/topic/48
+2024-12-05T15:23:19.563Z - MQTT client 1client50 published to topic: test1/topic/50
+2024-12-05T15:23:19.564Z - MQTT client 1client42 published to topic: test1/topic/42
+2024-12-05T15:23:19.564Z - MQTT client 1client44 published to topic: test1/topic/44
+2024-12-05T15:23:19.565Z - MQTT client 1client45 published to topic: test1/topic/45
+2024-12-05T15:23:19.566Z - MQTT client 1client84 published to topic: test1/topic/84
+2024-12-05T15:23:19.566Z - MQTT client 1client85 published to topic: test1/topic/85
+2024-12-05T15:23:19.566Z - MQTT client 1client49 published to topic: test1/topic/49
+2024-12-05T15:23:19.567Z - MQTT client 1client51 published to topic: test1/topic/51
+2024-12-05T15:23:19.567Z - MQTT client 1client52 published to topic: test1/topic/52
+2024-12-05T15:23:19.568Z - MQTT client 1client53 published to topic: test1/topic/53
+2024-12-05T15:23:19.568Z - MQTT client 1client54 published to topic: test1/topic/54
+2024-12-05T15:23:19.569Z - MQTT client 1client55 published to topic: test1/topic/55
+2024-12-05T15:23:19.569Z - MQTT client 1client56 published to topic: test1/topic/56
+2024-12-05T15:23:19.570Z - MQTT client 1client57 published to topic: test1/topic/57
+2024-12-05T15:23:19.570Z - MQTT client 1client58 published to topic: test1/topic/58
+2024-12-05T15:23:19.571Z - MQTT client 1client59 published to topic: test1/topic/59
+2024-12-05T15:23:19.572Z - MQTT client 1client60 published to topic: test1/topic/60
+2024-12-05T15:23:19.572Z - MQTT client 1client62 published to topic: test1/topic/62
+2024-12-05T15:23:19.573Z - MQTT client 1client61 published to topic: test1/topic/61
+2024-12-05T15:23:19.573Z - MQTT client 1client65 published to topic: test1/topic/65
+2024-12-05T15:23:19.573Z - MQTT client 1client63 published to topic: test1/topic/63
+2024-12-05T15:23:19.574Z - MQTT client 1client67 published to topic: test1/topic/67
+2024-12-05T15:23:19.575Z - MQTT client 1client64 published to topic: test1/topic/64
+2024-12-05T15:23:19.576Z - MQTT client 1client70 published to topic: test1/topic/70
+2024-12-05T15:23:19.576Z - MQTT client 1client82 published to topic: test1/topic/82
+2024-12-05T15:23:19.577Z - MQTT client 1client68 published to topic: test1/topic/68
+2024-12-05T15:23:19.577Z - MQTT client 1client72 published to topic: test1/topic/72
+2024-12-05T15:23:19.578Z - MQTT client 1client71 published to topic: test1/topic/71
+2024-12-05T15:23:19.578Z - MQTT client 1client73 published to topic: test1/topic/73
+2024-12-05T15:23:19.579Z - MQTT client 1client74 published to topic: test1/topic/74
+2024-12-05T15:23:19.579Z - MQTT client 1client75 published to topic: test1/topic/75
+2024-12-05T15:23:19.579Z - MQTT client 1client76 published to topic: test1/topic/76
+2024-12-05T15:23:20.489Z - MQTT client 1client3 published to topic: test1/topic/3
+2024-12-05T15:23:20.495Z - MQTT client 1client11 published to topic: test1/topic/11
+2024-12-05T15:23:20.496Z - MQTT client 1client13 published to topic: test1/topic/13
+2024-12-05T15:23:20.500Z - MQTT client 1client20 published to topic: test1/topic/20
+2024-12-05T15:23:20.504Z - MQTT client 1client25 published to topic: test1/topic/25
+2024-12-05T15:23:20.534Z - MQTT client 1client22 published to topic: test1/topic/22
+2024-12-05T15:23:20.535Z - MQTT client 1client27 published to topic: test1/topic/27
+2024-12-05T15:23:20.535Z - MQTT client 1client26 published to topic: test1/topic/26
+2024-12-05T15:23:20.536Z - MQTT client 1client0 published to topic: test1/topic/0
+2024-12-05T15:23:20.536Z - MQTT client 1client4 published to topic: test1/topic/4
+2024-12-05T15:23:20.536Z - MQTT client 1client79 published to topic: test1/topic/79
+2024-12-05T15:23:20.536Z - MQTT client 1client95 published to topic: test1/topic/95
+2024-12-05T15:23:20.536Z - MQTT client 1client30 published to topic: test1/topic/30
+2024-12-05T15:23:20.536Z - MQTT client 1client38 published to topic: test1/topic/38
+2024-12-05T15:23:20.537Z - MQTT client 1client5 published to topic: test1/topic/5
+2024-12-05T15:23:20.537Z - MQTT client 1client6 published to topic: test1/topic/6
+2024-12-05T15:23:20.537Z - MQTT client 1client39 published to topic: test1/topic/39
+2024-12-05T15:23:20.537Z - MQTT client 1client8 published to topic: test1/topic/8
+2024-12-05T15:23:20.537Z - MQTT client 1client81 published to topic: test1/topic/81
+2024-12-05T15:23:20.537Z - MQTT client 1client1 published to topic: test1/topic/1
+2024-12-05T15:23:20.549Z - MQTT client 1client7 published to topic: test1/topic/7
+2024-12-05T15:23:20.550Z - MQTT client 1client23 published to topic: test1/topic/23
+2024-12-05T15:23:20.551Z - MQTT client 1client89 published to topic: test1/topic/89
+2024-12-05T15:23:20.552Z - MQTT client 1client32 published to topic: test1/topic/32
+2024-12-05T15:23:20.552Z - MQTT client 1client9 published to topic: test1/topic/9
+2024-12-05T15:23:20.552Z - MQTT client 1client80 published to topic: test1/topic/80
+2024-12-05T15:23:20.553Z - MQTT client 1client88 published to topic: test1/topic/88
+2024-12-05T15:23:20.553Z - MQTT client 1client10 published to topic: test1/topic/10
+2024-12-05T15:23:20.554Z - MQTT client 1client2 published to topic: test1/topic/2
+2024-12-05T15:23:20.554Z - MQTT client 1client92 published to topic: test1/topic/92
+2024-12-05T15:23:20.556Z - MQTT client 1client96 published to topic: test1/topic/96
+2024-12-05T15:23:20.556Z - MQTT client 1client21 published to topic: test1/topic/21
+2024-12-05T15:23:20.557Z - MQTT client 1client31 published to topic: test1/topic/31
+2024-12-05T15:23:20.557Z - MQTT client 1client19 published to topic: test1/topic/19
+2024-12-05T15:23:20.558Z - MQTT client 1client97 published to topic: test1/topic/97
+2024-12-05T15:23:20.559Z - MQTT client 1client40 published to topic: test1/topic/40
+2024-12-05T15:23:20.559Z - MQTT client 1client29 published to topic: test1/topic/29
+2024-12-05T15:23:20.560Z - MQTT client 1client41 published to topic: test1/topic/41
+2024-12-05T15:23:20.560Z - MQTT client 1client99 published to topic: test1/topic/99
+2024-12-05T15:23:20.560Z - MQTT client 1client94 published to topic: test1/topic/94
+2024-12-05T15:23:20.560Z - MQTT client 1client12 published to topic: test1/topic/12
+2024-12-05T15:23:20.561Z - MQTT client 1client16 published to topic: test1/topic/16
+2024-12-05T15:23:20.563Z - MQTT client 1client15 published to topic: test1/topic/15
+2024-12-05T15:23:20.564Z - MQTT client 1client17 published to topic: test1/topic/17
+2024-12-05T15:23:20.564Z - MQTT client 1client28 published to topic: test1/topic/28
+2024-12-05T15:23:20.567Z - MQTT client 1client18 published to topic: test1/topic/18
+2024-12-05T15:23:20.568Z - MQTT client 1client34 published to topic: test1/topic/34
+2024-12-05T15:23:20.569Z - MQTT client 1client36 published to topic: test1/topic/36
+2024-12-05T15:23:20.569Z - MQTT client 1client86 published to topic: test1/topic/86
+2024-12-05T15:23:20.570Z - MQTT client 1client87 published to topic: test1/topic/87
+2024-12-05T15:23:20.570Z - MQTT client 1client93 published to topic: test1/topic/93
+2024-12-05T15:23:20.570Z - MQTT client 1client46 published to topic: test1/topic/46
+2024-12-05T15:23:20.571Z - MQTT client 1client37 published to topic: test1/topic/37
+2024-12-05T15:23:20.571Z - MQTT client 1client24 published to topic: test1/topic/24
+2024-12-05T15:23:20.571Z - MQTT client 1client47 published to topic: test1/topic/47
+2024-12-05T15:23:20.572Z - MQTT client 1client33 published to topic: test1/topic/33
+2024-12-05T15:23:20.572Z - MQTT client 1client48 published to topic: test1/topic/48
+2024-12-05T15:23:20.573Z - MQTT client 1client50 published to topic: test1/topic/50
+2024-12-05T15:23:20.573Z - MQTT client 1client42 published to topic: test1/topic/42
+2024-12-05T15:23:20.573Z - MQTT client 1client44 published to topic: test1/topic/44
+2024-12-05T15:23:20.574Z - MQTT client 1client45 published to topic: test1/topic/45
+2024-12-05T15:23:20.574Z - MQTT client 1client84 published to topic: test1/topic/84
+2024-12-05T15:23:20.575Z - MQTT client 1client85 published to topic: test1/topic/85
+2024-12-05T15:23:20.577Z - MQTT client 1client49 published to topic: test1/topic/49
+2024-12-05T15:23:20.579Z - MQTT client 1client51 published to topic: test1/topic/51
+2024-12-05T15:23:20.579Z - MQTT client 1client52 published to topic: test1/topic/52
+2024-12-05T15:23:20.580Z - MQTT client 1client53 published to topic: test1/topic/53
+2024-12-05T15:23:20.580Z - MQTT client 1client54 published to topic: test1/topic/54
+2024-12-05T15:23:20.580Z - MQTT client 1client55 published to topic: test1/topic/55
+2024-12-05T15:23:20.581Z - MQTT client 1client56 published to topic: test1/topic/56
+2024-12-05T15:23:20.581Z - MQTT client 1client57 published to topic: test1/topic/57
+2024-12-05T15:23:20.582Z - MQTT client 1client58 published to topic: test1/topic/58
+2024-12-05T15:23:20.582Z - MQTT client 1client59 published to topic: test1/topic/59
+2024-12-05T15:23:20.597Z - MQTT client 1client60 published to topic: test1/topic/60
+2024-12-05T15:23:20.598Z - MQTT client 1client62 published to topic: test1/topic/62
+2024-12-05T15:23:20.598Z - MQTT client 1client61 published to topic: test1/topic/61
+2024-12-05T15:23:20.598Z - MQTT client 1client65 published to topic: test1/topic/65
+2024-12-05T15:23:20.599Z - MQTT client 1client63 published to topic: test1/topic/63
+2024-12-05T15:23:20.599Z - MQTT client 1client67 published to topic: test1/topic/67
+2024-12-05T15:23:20.600Z - MQTT client 1client64 published to topic: test1/topic/64
+2024-12-05T15:23:20.600Z - MQTT client 1client70 published to topic: test1/topic/70
+2024-12-05T15:23:20.601Z - MQTT client 1client82 published to topic: test1/topic/82
+2024-12-05T15:23:20.601Z - MQTT client 1client68 published to topic: test1/topic/68
+2024-12-05T15:23:20.602Z - MQTT client 1client72 published to topic: test1/topic/72
+2024-12-05T15:23:20.602Z - MQTT client 1client71 published to topic: test1/topic/71
+2024-12-05T15:23:20.602Z - MQTT client 1client73 published to topic: test1/topic/73
+2024-12-05T15:23:20.603Z - MQTT client 1client74 published to topic: test1/topic/74
+2024-12-05T15:23:20.603Z - MQTT client 1client75 published to topic: test1/topic/75
+2024-12-05T15:23:20.604Z - MQTT client 1client76 published to topic: test1/topic/76
+2024-12-05T15:23:21.503Z - MQTT client 1client3 published to topic: test1/topic/3
+2024-12-05T15:23:21.511Z - MQTT client 1client11 published to topic: test1/topic/11
+2024-12-05T15:23:21.527Z - MQTT client 1client13 published to topic: test1/topic/13
+2024-12-05T15:23:21.529Z - MQTT client 1client20 published to topic: test1/topic/20
+2024-12-05T15:23:21.539Z - MQTT client 1client25 published to topic: test1/topic/25
+2024-12-05T15:23:21.539Z - MQTT client 1client22 published to topic: test1/topic/22
+2024-12-05T15:23:21.541Z - MQTT client 1client27 published to topic: test1/topic/27
+2024-12-05T15:23:21.541Z - MQTT client 1client26 published to topic: test1/topic/26
+2024-12-05T15:23:21.542Z - MQTT client 1client0 published to topic: test1/topic/0
+2024-12-05T15:23:21.542Z - MQTT client 1client4 published to topic: test1/topic/4
+2024-12-05T15:23:21.542Z - MQTT client 1client79 published to topic: test1/topic/79
+2024-12-05T15:23:21.543Z - MQTT client 1client95 published to topic: test1/topic/95
+2024-12-05T15:23:21.543Z - MQTT client 1client30 published to topic: test1/topic/30
+2024-12-05T15:23:21.544Z - MQTT client 1client38 published to topic: test1/topic/38
+2024-12-05T15:23:21.544Z - MQTT client 1client5 published to topic: test1/topic/5
+2024-12-05T15:23:21.544Z - MQTT client 1client6 published to topic: test1/topic/6
+2024-12-05T15:23:21.545Z - MQTT client 1client39 published to topic: test1/topic/39
+2024-12-05T15:23:21.545Z - MQTT client 1client8 published to topic: test1/topic/8
+2024-12-05T15:23:21.546Z - MQTT client 1client81 published to topic: test1/topic/81
+2024-12-05T15:23:21.546Z - MQTT client 1client1 published to topic: test1/topic/1
+2024-12-05T15:23:21.565Z - MQTT client 1client7 published to topic: test1/topic/7
+2024-12-05T15:23:21.566Z - MQTT client 1client23 published to topic: test1/topic/23
+2024-12-05T15:23:21.566Z - MQTT client 1client89 published to topic: test1/topic/89
+2024-12-05T15:23:21.567Z - MQTT client 1client32 published to topic: test1/topic/32
+2024-12-05T15:23:21.568Z - MQTT client 1client9 published to topic: test1/topic/9
+2024-12-05T15:23:21.570Z - MQTT client 1client80 published to topic: test1/topic/80
+2024-12-05T15:23:21.570Z - MQTT client 1client88 published to topic: test1/topic/88
+2024-12-05T15:23:21.571Z - MQTT client 1client10 published to topic: test1/topic/10
+2024-12-05T15:23:21.571Z - MQTT client 1client2 published to topic: test1/topic/2
+2024-12-05T15:23:21.572Z - MQTT client 1client92 published to topic: test1/topic/92
+2024-12-05T15:23:21.572Z - MQTT client 1client96 published to topic: test1/topic/96
+2024-12-05T15:23:21.573Z - MQTT client 1client21 published to topic: test1/topic/21
+2024-12-05T15:23:21.573Z - MQTT client 1client31 published to topic: test1/topic/31
+2024-12-05T15:23:21.574Z - MQTT client 1client19 published to topic: test1/topic/19
+2024-12-05T15:23:21.574Z - MQTT client 1client97 published to topic: test1/topic/97
+2024-12-05T15:23:21.574Z - MQTT client 1client40 published to topic: test1/topic/40
+2024-12-05T15:23:21.575Z - MQTT client 1client29 published to topic: test1/topic/29
+2024-12-05T15:23:21.575Z - MQTT client 1client41 published to topic: test1/topic/41
+2024-12-05T15:23:21.576Z - MQTT client 1client99 published to topic: test1/topic/99
+2024-12-05T15:23:21.576Z - MQTT client 1client94 published to topic: test1/topic/94
+2024-12-05T15:23:21.577Z - MQTT client 1client12 published to topic: test1/topic/12
+2024-12-05T15:23:21.577Z - MQTT client 1client16 published to topic: test1/topic/16
+2024-12-05T15:23:21.577Z - MQTT client 1client15 published to topic: test1/topic/15
+2024-12-05T15:23:21.578Z - MQTT client 1client17 published to topic: test1/topic/17
+2024-12-05T15:23:21.578Z - MQTT client 1client28 published to topic: test1/topic/28
+2024-12-05T15:23:21.580Z - MQTT client 1client18 published to topic: test1/topic/18
+2024-12-05T15:23:21.580Z - MQTT client 1client34 published to topic: test1/topic/34
+2024-12-05T15:23:21.581Z - MQTT client 1client36 published to topic: test1/topic/36
+2024-12-05T15:23:21.581Z - MQTT client 1client86 published to topic: test1/topic/86
+2024-12-05T15:23:21.581Z - MQTT client 1client87 published to topic: test1/topic/87
+2024-12-05T15:23:21.582Z - MQTT client 1client93 published to topic: test1/topic/93
+2024-12-05T15:23:21.582Z - MQTT client 1client46 published to topic: test1/topic/46
+2024-12-05T15:23:21.583Z - MQTT client 1client37 published to topic: test1/topic/37
+2024-12-05T15:23:21.583Z - MQTT client 1client24 published to topic: test1/topic/24
+2024-12-05T15:23:21.583Z - MQTT client 1client47 published to topic: test1/topic/47
+2024-12-05T15:23:21.584Z - MQTT client 1client33 published to topic: test1/topic/33
+2024-12-05T15:23:21.584Z - MQTT client 1client48 published to topic: test1/topic/48
+2024-12-05T15:23:21.584Z - MQTT client 1client50 published to topic: test1/topic/50
+2024-12-05T15:23:21.585Z - MQTT client 1client42 published to topic: test1/topic/42
+2024-12-05T15:23:21.586Z - MQTT client 1client44 published to topic: test1/topic/44
+2024-12-05T15:23:21.586Z - MQTT client 1client45 published to topic: test1/topic/45
+2024-12-05T15:23:21.587Z - MQTT client 1client84 published to topic: test1/topic/84
+2024-12-05T15:23:21.587Z - MQTT client 1client85 published to topic: test1/topic/85
+2024-12-05T15:23:21.588Z - MQTT client 1client49 published to topic: test1/topic/49
+2024-12-05T15:23:21.588Z - MQTT client 1client51 published to topic: test1/topic/51
+2024-12-05T15:23:21.589Z - MQTT client 1client52 published to topic: test1/topic/52
+2024-12-05T15:23:21.589Z - MQTT client 1client53 published to topic: test1/topic/53
+2024-12-05T15:23:21.596Z - MQTT client 1client54 published to topic: test1/topic/54
+2024-12-05T15:23:21.597Z - MQTT client 1client55 published to topic: test1/topic/55
+2024-12-05T15:23:21.597Z - MQTT client 1client56 published to topic: test1/topic/56
+2024-12-05T15:23:21.597Z - MQTT client 1client57 published to topic: test1/topic/57
+2024-12-05T15:23:21.598Z - MQTT client 1client58 published to topic: test1/topic/58
+2024-12-05T15:23:21.598Z - MQTT client 1client59 published to topic: test1/topic/59
+2024-12-05T15:23:21.611Z - MQTT client 1client60 published to topic: test1/topic/60
+2024-12-05T15:23:21.612Z - MQTT client 1client62 published to topic: test1/topic/62
+2024-12-05T15:23:21.612Z - MQTT client 1client61 published to topic: test1/topic/61
+2024-12-05T15:23:21.613Z - MQTT client 1client65 published to topic: test1/topic/65
+2024-12-05T15:23:21.613Z - MQTT client 1client63 published to topic: test1/topic/63
+2024-12-05T15:23:21.614Z - MQTT client 1client67 published to topic: test1/topic/67
+2024-12-05T15:23:21.614Z - MQTT client 1client64 published to topic: test1/topic/64
+2024-12-05T15:23:21.615Z - MQTT client 1client70 published to topic: test1/topic/70
+2024-12-05T15:23:21.615Z - MQTT client 1client82 published to topic: test1/topic/82
+2024-12-05T15:23:21.615Z - MQTT client 1client68 published to topic: test1/topic/68
+2024-12-05T15:23:21.616Z - MQTT client 1client72 published to topic: test1/topic/72
+2024-12-05T15:23:21.616Z - MQTT client 1client71 published to topic: test1/topic/71
+2024-12-05T15:23:21.616Z - MQTT client 1client73 published to topic: test1/topic/73
+2024-12-05T15:23:21.617Z - MQTT client 1client74 published to topic: test1/topic/74
+2024-12-05T15:23:21.617Z - MQTT client 1client75 published to topic: test1/topic/75
+2024-12-05T15:23:21.618Z - MQTT client 1client76 published to topic: test1/topic/76
+2024-12-05T15:23:22.513Z - MQTT client 1client3 published to topic: test1/topic/3
+2024-12-05T15:23:22.513Z - MQTT client 1client11 published to topic: test1/topic/11
+2024-12-05T15:23:22.528Z - MQTT client 1client13 published to topic: test1/topic/13
+2024-12-05T15:23:22.529Z - MQTT client 1client20 published to topic: test1/topic/20
+2024-12-05T15:23:22.543Z - MQTT client 1client25 published to topic: test1/topic/25
+2024-12-05T15:23:22.544Z - MQTT client 1client22 published to topic: test1/topic/22
+2024-12-05T15:23:22.544Z - MQTT client 1client27 published to topic: test1/topic/27
+2024-12-05T15:23:22.545Z - MQTT client 1client26 published to topic: test1/topic/26
+2024-12-05T15:23:22.545Z - MQTT client 1client0 published to topic: test1/topic/0
+2024-12-05T15:23:22.546Z - MQTT client 1client4 published to topic: test1/topic/4
+2024-12-05T15:23:22.547Z - MQTT client 1client79 published to topic: test1/topic/79
+2024-12-05T15:23:22.548Z - MQTT client 1client95 published to topic: test1/topic/95
+2024-12-05T15:23:22.548Z - MQTT client 1client30 published to topic: test1/topic/30
+2024-12-05T15:23:22.549Z - MQTT client 1client38 published to topic: test1/topic/38
+2024-12-05T15:23:22.559Z - MQTT client 1client5 published to topic: test1/topic/5
+2024-12-05T15:23:22.560Z - MQTT client 1client6 published to topic: test1/topic/6
+2024-12-05T15:23:22.560Z - MQTT client 1client39 published to topic: test1/topic/39
+2024-12-05T15:23:22.560Z - MQTT client 1client8 published to topic: test1/topic/8
+2024-12-05T15:23:22.561Z - MQTT client 1client81 published to topic: test1/topic/81
+2024-12-05T15:23:22.562Z - MQTT client 1client1 published to topic: test1/topic/1
+2024-12-05T15:23:22.575Z - MQTT client 1client7 published to topic: test1/topic/7
+2024-12-05T15:23:22.576Z - MQTT client 1client23 published to topic: test1/topic/23
+2024-12-05T15:23:22.576Z - MQTT client 1client89 published to topic: test1/topic/89
+2024-12-05T15:23:22.576Z - MQTT client 1client32 published to topic: test1/topic/32
+2024-12-05T15:23:22.577Z - MQTT client 1client9 published to topic: test1/topic/9
+2024-12-05T15:23:22.577Z - MQTT client 1client80 published to topic: test1/topic/80
+2024-12-05T15:23:22.579Z - MQTT client 1client88 published to topic: test1/topic/88
+2024-12-05T15:23:22.579Z - MQTT client 1client10 published to topic: test1/topic/10
+2024-12-05T15:23:22.581Z - MQTT client 1client2 published to topic: test1/topic/2
+2024-12-05T15:23:22.582Z - MQTT client 1client92 published to topic: test1/topic/92
+2024-12-05T15:23:22.583Z - MQTT client 1client96 published to topic: test1/topic/96
+2024-12-05T15:23:22.584Z - MQTT client 1client21 published to topic: test1/topic/21
+2024-12-05T15:23:22.584Z - MQTT client 1client31 published to topic: test1/topic/31
+2024-12-05T15:23:22.584Z - MQTT client 1client19 published to topic: test1/topic/19
+2024-12-05T15:23:22.585Z - MQTT client 1client97 published to topic: test1/topic/97
+2024-12-05T15:23:22.585Z - MQTT client 1client40 published to topic: test1/topic/40
+2024-12-05T15:23:22.586Z - MQTT client 1client29 published to topic: test1/topic/29
+2024-12-05T15:23:22.587Z - MQTT client 1client41 published to topic: test1/topic/41
+2024-12-05T15:23:22.587Z - MQTT client 1client99 published to topic: test1/topic/99
+2024-12-05T15:23:22.589Z - MQTT client 1client94 published to topic: test1/topic/94
+2024-12-05T15:23:22.589Z - MQTT client 1client12 published to topic: test1/topic/12
+2024-12-05T15:23:22.590Z - MQTT client 1client16 published to topic: test1/topic/16
+2024-12-05T15:23:22.591Z - MQTT client 1client15 published to topic: test1/topic/15
+2024-12-05T15:23:22.593Z - MQTT client 1client17 published to topic: test1/topic/17
+2024-12-05T15:23:22.594Z - MQTT client 1client28 published to topic: test1/topic/28
+2024-12-05T15:23:22.594Z - MQTT client 1client18 published to topic: test1/topic/18
+2024-12-05T15:23:22.594Z - MQTT client 1client34 published to topic: test1/topic/34
+2024-12-05T15:23:22.595Z - MQTT client 1client36 published to topic: test1/topic/36
+2024-12-05T15:23:22.595Z - MQTT client 1client86 published to topic: test1/topic/86
+2024-12-05T15:23:22.596Z - MQTT client 1client87 published to topic: test1/topic/87
+2024-12-05T15:23:22.597Z - MQTT client 1client93 published to topic: test1/topic/93
+2024-12-05T15:23:22.597Z - MQTT client 1client46 published to topic: test1/topic/46
+2024-12-05T15:23:22.597Z - MQTT client 1client37 published to topic: test1/topic/37
+2024-12-05T15:23:22.598Z - MQTT client 1client24 published to topic: test1/topic/24
+2024-12-05T15:23:22.599Z - MQTT client 1client47 published to topic: test1/topic/47
+2024-12-05T15:23:22.599Z - MQTT client 1client33 published to topic: test1/topic/33
+2024-12-05T15:23:22.600Z - MQTT client 1client48 published to topic: test1/topic/48
+2024-12-05T15:23:22.600Z - MQTT client 1client50 published to topic: test1/topic/50
+2024-12-05T15:23:22.601Z - MQTT client 1client42 published to topic: test1/topic/42
+2024-12-05T15:23:22.602Z - MQTT client 1client44 published to topic: test1/topic/44
+2024-12-05T15:23:22.602Z - MQTT client 1client45 published to topic: test1/topic/45
+2024-12-05T15:23:22.603Z - MQTT client 1client84 published to topic: test1/topic/84
+2024-12-05T15:23:22.603Z - MQTT client 1client85 published to topic: test1/topic/85
+2024-12-05T15:23:22.604Z - MQTT client 1client49 published to topic: test1/topic/49
+2024-12-05T15:23:22.604Z - MQTT client 1client51 published to topic: test1/topic/51
+2024-12-05T15:23:22.605Z - MQTT client 1client52 published to topic: test1/topic/52
+2024-12-05T15:23:22.605Z - MQTT client 1client53 published to topic: test1/topic/53
+2024-12-05T15:23:22.605Z - MQTT client 1client54 published to topic: test1/topic/54
+2024-12-05T15:23:22.606Z - MQTT client 1client55 published to topic: test1/topic/55
+2024-12-05T15:23:22.606Z - MQTT client 1client56 published to topic: test1/topic/56
+2024-12-05T15:23:22.606Z - MQTT client 1client57 published to topic: test1/topic/57
+2024-12-05T15:23:22.607Z - MQTT client 1client58 published to topic: test1/topic/58
+2024-12-05T15:23:22.607Z - MQTT client 1client59 published to topic: test1/topic/59
+2024-12-05T15:23:22.622Z - MQTT client 1client60 published to topic: test1/topic/60
+2024-12-05T15:23:22.622Z - MQTT client 1client62 published to topic: test1/topic/62
+2024-12-05T15:23:22.623Z - MQTT client 1client61 published to topic: test1/topic/61
+2024-12-05T15:23:22.623Z - MQTT client 1client65 published to topic: test1/topic/65
+2024-12-05T15:23:22.624Z - MQTT client 1client63 published to topic: test1/topic/63
+2024-12-05T15:23:22.624Z - MQTT client 1client67 published to topic: test1/topic/67
+2024-12-05T15:23:22.625Z - MQTT client 1client64 published to topic: test1/topic/64
+2024-12-05T15:23:22.625Z - MQTT client 1client70 published to topic: test1/topic/70
+2024-12-05T15:23:22.626Z - MQTT client 1client82 published to topic: test1/topic/82
+2024-12-05T15:23:22.626Z - MQTT client 1client68 published to topic: test1/topic/68
+2024-12-05T15:23:22.626Z - MQTT client 1client72 published to topic: test1/topic/72
+2024-12-05T15:23:22.627Z - MQTT client 1client71 published to topic: test1/topic/71
+2024-12-05T15:23:22.627Z - MQTT client 1client73 published to topic: test1/topic/73
+2024-12-05T15:23:22.628Z - MQTT client 1client74 published to topic: test1/topic/74
+2024-12-05T15:23:22.628Z - MQTT client 1client75 published to topic: test1/topic/75
+2024-12-05T15:23:22.628Z - MQTT client 1client76 published to topic: test1/topic/76
+2024-12-05T15:23:23.528Z - MQTT client 1client3 published to topic: test1/topic/3
+2024-12-05T15:23:23.530Z - MQTT client 1client11 published to topic: test1/topic/11
+2024-12-05T15:23:23.533Z - MQTT client 1client13 published to topic: test1/topic/13
+2024-12-05T15:23:23.534Z - MQTT client 1client20 published to topic: test1/topic/20
+2024-12-05T15:23:23.545Z - MQTT client 1client25 published to topic: test1/topic/25
+2024-12-05T15:23:23.545Z - MQTT client 1client22 published to topic: test1/topic/22
+2024-12-05T15:23:23.546Z - MQTT client 1client27 published to topic: test1/topic/27
+2024-12-05T15:23:23.548Z - MQTT client 1client26 published to topic: test1/topic/26
+2024-12-05T15:23:23.548Z - MQTT client 1client0 published to topic: test1/topic/0
+2024-12-05T15:23:23.549Z - MQTT client 1client4 published to topic: test1/topic/4
+2024-12-05T15:23:23.549Z - MQTT client 1client79 published to topic: test1/topic/79
+2024-12-05T15:23:23.550Z - MQTT client 1client95 published to topic: test1/topic/95
+2024-12-05T15:23:23.550Z - MQTT client 1client30 published to topic: test1/topic/30
+2024-12-05T15:23:23.550Z - MQTT client 1client38 published to topic: test1/topic/38
+2024-12-05T15:23:23.563Z - MQTT client 1client5 published to topic: test1/topic/5
+2024-12-05T15:23:23.564Z - MQTT client 1client6 published to topic: test1/topic/6
+2024-12-05T15:23:23.565Z - MQTT client 1client39 published to topic: test1/topic/39
+2024-12-05T15:23:23.565Z - MQTT client 1client8 published to topic: test1/topic/8
+2024-12-05T15:23:23.566Z - MQTT client 1client81 published to topic: test1/topic/81
+2024-12-05T15:23:23.572Z - MQTT client 1client1 published to topic: test1/topic/1
+2024-12-05T15:23:23.575Z - MQTT client 1client7 published to topic: test1/topic/7
+2024-12-05T15:23:23.577Z - MQTT client 1client23 published to topic: test1/topic/23
+2024-12-05T15:23:23.579Z - MQTT client 1client89 published to topic: test1/topic/89
+2024-12-05T15:23:23.579Z - MQTT client 1client32 published to topic: test1/topic/32
+2024-12-05T15:23:23.592Z - MQTT client 1client9 published to topic: test1/topic/9
+2024-12-05T15:23:23.594Z - MQTT client 1client80 published to topic: test1/topic/80
+2024-12-05T15:23:23.596Z - MQTT client 1client88 published to topic: test1/topic/88
+2024-12-05T15:23:23.597Z - MQTT client 1client10 published to topic: test1/topic/10
+2024-12-05T15:23:23.597Z - MQTT client 1client2 published to topic: test1/topic/2
+2024-12-05T15:23:23.598Z - MQTT client 1client92 published to topic: test1/topic/92
+2024-12-05T15:23:23.598Z - MQTT client 1client96 published to topic: test1/topic/96
+2024-12-05T15:23:23.599Z - MQTT client 1client21 published to topic: test1/topic/21
+2024-12-05T15:23:23.599Z - MQTT client 1client31 published to topic: test1/topic/31
+2024-12-05T15:23:23.599Z - MQTT client 1client19 published to topic: test1/topic/19
+2024-12-05T15:23:23.600Z - MQTT client 1client97 published to topic: test1/topic/97
+2024-12-05T15:23:23.600Z - MQTT client 1client40 published to topic: test1/topic/40
+2024-12-05T15:23:23.601Z - MQTT client 1client29 published to topic: test1/topic/29
+2024-12-05T15:23:23.602Z - MQTT client 1client41 published to topic: test1/topic/41
+2024-12-05T15:23:23.603Z - MQTT client 1client99 published to topic: test1/topic/99
+2024-12-05T15:23:23.603Z - MQTT client 1client94 published to topic: test1/topic/94
+2024-12-05T15:23:23.604Z - MQTT client 1client12 published to topic: test1/topic/12
+2024-12-05T15:23:23.604Z - MQTT client 1client16 published to topic: test1/topic/16
+2024-12-05T15:23:23.605Z - MQTT client 1client15 published to topic: test1/topic/15
+2024-12-05T15:23:23.605Z - MQTT client 1client17 published to topic: test1/topic/17
+2024-12-05T15:23:23.606Z - MQTT client 1client28 published to topic: test1/topic/28
+2024-12-05T15:23:23.607Z - MQTT client 1client18 published to topic: test1/topic/18
+2024-12-05T15:23:23.607Z - MQTT client 1client34 published to topic: test1/topic/34
+2024-12-05T15:23:23.607Z - MQTT client 1client36 published to topic: test1/topic/36
+2024-12-05T15:23:23.608Z - MQTT client 1client86 published to topic: test1/topic/86
+2024-12-05T15:23:23.608Z - MQTT client 1client87 published to topic: test1/topic/87
+2024-12-05T15:23:23.608Z - MQTT client 1client93 published to topic: test1/topic/93
+2024-12-05T15:23:23.609Z - MQTT client 1client46 published to topic: test1/topic/46
+2024-12-05T15:23:23.609Z - MQTT client 1client37 published to topic: test1/topic/37
+2024-12-05T15:23:23.609Z - MQTT client 1client24 published to topic: test1/topic/24
+2024-12-05T15:23:23.610Z - MQTT client 1client47 published to topic: test1/topic/47
+2024-12-05T15:23:23.610Z - MQTT client 1client33 published to topic: test1/topic/33
+2024-12-05T15:23:23.611Z - MQTT client 1client48 published to topic: test1/topic/48
+2024-12-05T15:23:23.611Z - MQTT client 1client50 published to topic: test1/topic/50
+2024-12-05T15:23:23.612Z - MQTT client 1client42 published to topic: test1/topic/42
+2024-12-05T15:23:23.612Z - MQTT client 1client44 published to topic: test1/topic/44
+2024-12-05T15:23:23.612Z - MQTT client 1client45 published to topic: test1/topic/45
+2024-12-05T15:23:23.613Z - MQTT client 1client84 published to topic: test1/topic/84
+2024-12-05T15:23:23.613Z - MQTT client 1client85 published to topic: test1/topic/85
+2024-12-05T15:23:23.613Z - MQTT client 1client49 published to topic: test1/topic/49
+2024-12-05T15:23:23.614Z - MQTT client 1client51 published to topic: test1/topic/51
+2024-12-05T15:23:23.614Z - MQTT client 1client52 published to topic: test1/topic/52
+2024-12-05T15:23:23.615Z - MQTT client 1client53 published to topic: test1/topic/53
+2024-12-05T15:23:23.615Z - MQTT client 1client54 published to topic: test1/topic/54
+2024-12-05T15:23:23.616Z - MQTT client 1client55 published to topic: test1/topic/55
+2024-12-05T15:23:23.616Z - MQTT client 1client56 published to topic: test1/topic/56
+2024-12-05T15:23:23.616Z - MQTT client 1client57 published to topic: test1/topic/57
+2024-12-05T15:23:23.617Z - MQTT client 1client58 published to topic: test1/topic/58
+2024-12-05T15:23:23.617Z - MQTT client 1client59 published to topic: test1/topic/59
+2024-12-05T15:23:23.622Z - MQTT client 1client60 published to topic: test1/topic/60
+2024-12-05T15:23:23.623Z - MQTT client 1client62 published to topic: test1/topic/62
+2024-12-05T15:23:23.623Z - MQTT client 1client61 published to topic: test1/topic/61
+2024-12-05T15:23:23.624Z - MQTT client 1client65 published to topic: test1/topic/65
+2024-12-05T15:23:23.624Z - MQTT client 1client63 published to topic: test1/topic/63
+2024-12-05T15:23:23.637Z - MQTT client 1client67 published to topic: test1/topic/67
+2024-12-05T15:23:23.637Z - MQTT client 1client64 published to topic: test1/topic/64
+2024-12-05T15:23:23.638Z - MQTT client 1client70 published to topic: test1/topic/70
+2024-12-05T15:23:23.638Z - MQTT client 1client82 published to topic: test1/topic/82
+2024-12-05T15:23:23.639Z - MQTT client 1client68 published to topic: test1/topic/68
+2024-12-05T15:23:23.639Z - MQTT client 1client72 published to topic: test1/topic/72
+2024-12-05T15:23:23.639Z - MQTT client 1client71 published to topic: test1/topic/71
+2024-12-05T15:23:23.640Z - MQTT client 1client73 published to topic: test1/topic/73
+2024-12-05T15:23:23.641Z - MQTT client 1client74 published to topic: test1/topic/74
+2024-12-05T15:23:23.642Z - MQTT client 1client75 published to topic: test1/topic/75
+2024-12-05T15:23:23.642Z - MQTT client 1client76 published to topic: test1/topic/76
+2024-12-05T15:23:24.531Z - MQTT client 1client3 published to topic: test1/topic/3
+2024-12-05T15:23:24.532Z - MQTT client 1client11 published to topic: test1/topic/11
+2024-12-05T15:23:24.533Z - MQTT client 1client13 published to topic: test1/topic/13
+2024-12-05T15:23:24.547Z - MQTT client 1client20 published to topic: test1/topic/20
+2024-12-05T15:23:24.549Z - MQTT client 1client25 published to topic: test1/topic/25
+2024-12-05T15:23:24.550Z - MQTT client 1client22 published to topic: test1/topic/22
+2024-12-05T15:23:24.551Z - MQTT client 1client27 published to topic: test1/topic/27
+2024-12-05T15:23:24.552Z - MQTT client 1client26 published to topic: test1/topic/26
+2024-12-05T15:23:24.552Z - MQTT client 1client0 published to topic: test1/topic/0
+2024-12-05T15:23:24.553Z - MQTT client 1client4 published to topic: test1/topic/4
+2024-12-05T15:23:24.554Z - MQTT client 1client79 published to topic: test1/topic/79
+2024-12-05T15:23:24.557Z - MQTT client 1client95 published to topic: test1/topic/95
+2024-12-05T15:23:24.559Z - MQTT client 1client30 published to topic: test1/topic/30
+2024-12-05T15:23:24.560Z - MQTT client 1client38 published to topic: test1/topic/38
+2024-12-05T15:23:24.578Z - MQTT client 1client5 published to topic: test1/topic/5
+2024-12-05T15:23:24.579Z - MQTT client 1client6 published to topic: test1/topic/6
+2024-12-05T15:23:24.579Z - MQTT client 1client39 published to topic: test1/topic/39
+2024-12-05T15:23:24.580Z - MQTT client 1client8 published to topic: test1/topic/8
+2024-12-05T15:23:24.580Z - MQTT client 1client81 published to topic: test1/topic/81
+2024-12-05T15:23:24.580Z - MQTT client 1client1 published to topic: test1/topic/1
+2024-12-05T15:23:24.581Z - MQTT client 1client7 published to topic: test1/topic/7
+2024-12-05T15:23:24.581Z - MQTT client 1client23 published to topic: test1/topic/23
+2024-12-05T15:23:24.582Z - MQTT client 1client89 published to topic: test1/topic/89
+2024-12-05T15:23:24.583Z - MQTT client 1client32 published to topic: test1/topic/32
+2024-12-05T15:23:24.594Z - MQTT client 1client9 published to topic: test1/topic/9
+2024-12-05T15:23:24.595Z - MQTT client 1client80 published to topic: test1/topic/80
+2024-12-05T15:23:24.609Z - MQTT client 1client88 published to topic: test1/topic/88
+2024-12-05T15:23:24.610Z - MQTT client 1client10 published to topic: test1/topic/10
+2024-12-05T15:23:24.610Z - MQTT client 1client2 published to topic: test1/topic/2
+2024-12-05T15:23:24.611Z - MQTT client 1client92 published to topic: test1/topic/92
+2024-12-05T15:23:24.611Z - MQTT client 1client96 published to topic: test1/topic/96
+2024-12-05T15:23:24.612Z - MQTT client 1client21 published to topic: test1/topic/21
+2024-12-05T15:23:24.612Z - MQTT client 1client31 published to topic: test1/topic/31
+2024-12-05T15:23:24.613Z - MQTT client 1client19 published to topic: test1/topic/19
+2024-12-05T15:23:24.613Z - MQTT client 1client97 published to topic: test1/topic/97
+2024-12-05T15:23:24.614Z - MQTT client 1client40 published to topic: test1/topic/40
+2024-12-05T15:23:24.614Z - MQTT client 1client29 published to topic: test1/topic/29
+2024-12-05T15:23:24.615Z - MQTT client 1client41 published to topic: test1/topic/41
+2024-12-05T15:23:24.615Z - MQTT client 1client99 published to topic: test1/topic/99
+2024-12-05T15:23:24.616Z - MQTT client 1client94 published to topic: test1/topic/94
+2024-12-05T15:23:24.617Z - MQTT client 1client12 published to topic: test1/topic/12
+2024-12-05T15:23:24.617Z - MQTT client 1client16 published to topic: test1/topic/16
+2024-12-05T15:23:24.618Z - MQTT client 1client15 published to topic: test1/topic/15
+2024-12-05T15:23:24.618Z - MQTT client 1client17 published to topic: test1/topic/17
+2024-12-05T15:23:24.619Z - MQTT client 1client28 published to topic: test1/topic/28
+2024-12-05T15:23:24.619Z - MQTT client 1client18 published to topic: test1/topic/18
+2024-12-05T15:23:24.620Z - MQTT client 1client34 published to topic: test1/topic/34
+2024-12-05T15:23:24.620Z - MQTT client 1client36 published to topic: test1/topic/36
+2024-12-05T15:23:24.621Z - MQTT client 1client86 published to topic: test1/topic/86
+2024-12-05T15:23:24.621Z - MQTT client 1client87 published to topic: test1/topic/87
+2024-12-05T15:23:24.621Z - MQTT client 1client93 published to topic: test1/topic/93
+2024-12-05T15:23:24.622Z - MQTT client 1client46 published to topic: test1/topic/46
+2024-12-05T15:23:24.622Z - MQTT client 1client37 published to topic: test1/topic/37
+2024-12-05T15:23:24.623Z - MQTT client 1client24 published to topic: test1/topic/24
+2024-12-05T15:23:24.623Z - MQTT client 1client47 published to topic: test1/topic/47
+2024-12-05T15:23:24.623Z - MQTT client 1client33 published to topic: test1/topic/33
+2024-12-05T15:23:24.624Z - MQTT client 1client48 published to topic: test1/topic/48
+2024-12-05T15:23:24.624Z - MQTT client 1client50 published to topic: test1/topic/50
+2024-12-05T15:23:24.625Z - MQTT client 1client42 published to topic: test1/topic/42
+2024-12-05T15:23:24.625Z - MQTT client 1client44 published to topic: test1/topic/44
+2024-12-05T15:23:24.625Z - MQTT client 1client45 published to topic: test1/topic/45
+2024-12-05T15:23:24.626Z - MQTT client 1client84 published to topic: test1/topic/84
+2024-12-05T15:23:24.626Z - MQTT client 1client85 published to topic: test1/topic/85
+2024-12-05T15:23:24.627Z - MQTT client 1client49 published to topic: test1/topic/49
+2024-12-05T15:23:24.627Z - MQTT client 1client51 published to topic: test1/topic/51
+2024-12-05T15:23:24.627Z - MQTT client 1client52 published to topic: test1/topic/52
+2024-12-05T15:23:24.628Z - MQTT client 1client53 published to topic: test1/topic/53
+2024-12-05T15:23:24.628Z - MQTT client 1client54 published to topic: test1/topic/54
+2024-12-05T15:23:24.629Z - MQTT client 1client55 published to topic: test1/topic/55
+2024-12-05T15:23:24.630Z - MQTT client 1client56 published to topic: test1/topic/56
+2024-12-05T15:23:24.630Z - MQTT client 1client57 published to topic: test1/topic/57
+2024-12-05T15:23:24.631Z - MQTT client 1client58 published to topic: test1/topic/58
+2024-12-05T15:23:24.631Z - MQTT client 1client59 published to topic: test1/topic/59
+2024-12-05T15:23:24.631Z - MQTT client 1client60 published to topic: test1/topic/60
+2024-12-05T15:23:24.632Z - MQTT client 1client62 published to topic: test1/topic/62
+2024-12-05T15:23:24.632Z - MQTT client 1client61 published to topic: test1/topic/61
+2024-12-05T15:23:24.632Z - MQTT client 1client65 published to topic: test1/topic/65
+2024-12-05T15:23:24.633Z - MQTT client 1client63 published to topic: test1/topic/63
+2024-12-05T15:23:24.640Z - MQTT client 1client67 published to topic: test1/topic/67
+2024-12-05T15:23:24.641Z - MQTT client 1client64 published to topic: test1/topic/64
+2024-12-05T15:23:24.641Z - MQTT client 1client70 published to topic: test1/topic/70
+2024-12-05T15:23:24.642Z - MQTT client 1client82 published to topic: test1/topic/82
+2024-12-05T15:23:24.642Z - MQTT client 1client68 published to topic: test1/topic/68
+2024-12-05T15:23:24.642Z - MQTT client 1client72 published to topic: test1/topic/72
+2024-12-05T15:23:24.643Z - MQTT client 1client71 published to topic: test1/topic/71
+2024-12-05T15:23:24.643Z - MQTT client 1client73 published to topic: test1/topic/73
+2024-12-05T15:23:24.656Z - MQTT client 1client74 published to topic: test1/topic/74
+2024-12-05T15:23:24.657Z - MQTT client 1client75 published to topic: test1/topic/75
+2024-12-05T15:23:24.657Z - MQTT client 1client76 published to topic: test1/topic/76
+2024-12-05T15:23:25.540Z - MQTT client 1client3 published to topic: test1/topic/3
+2024-12-05T15:23:25.543Z - MQTT client 1client11 published to topic: test1/topic/11
+2024-12-05T15:23:25.544Z - MQTT client 1client13 published to topic: test1/topic/13
+2024-12-05T15:23:25.556Z - MQTT client 1client20 published to topic: test1/topic/20
+2024-12-05T15:23:25.557Z - MQTT client 1client25 published to topic: test1/topic/25
+2024-12-05T15:23:25.558Z - MQTT client 1client22 published to topic: test1/topic/22
+2024-12-05T15:23:25.559Z - MQTT client 1client27 published to topic: test1/topic/27
+2024-12-05T15:23:25.560Z - MQTT client 1client26 published to topic: test1/topic/26
+2024-12-05T15:23:25.562Z - MQTT client 1client0 published to topic: test1/topic/0
+2024-12-05T15:23:25.564Z - MQTT client 1client4 published to topic: test1/topic/4
+2024-12-05T15:23:25.565Z - MQTT client 1client79 published to topic: test1/topic/79
+2024-12-05T15:23:25.566Z - MQTT client 1client95 published to topic: test1/topic/95
+2024-12-05T15:23:25.567Z - MQTT client 1client30 published to topic: test1/topic/30
+2024-12-05T15:23:25.570Z - MQTT client 1client38 published to topic: test1/topic/38
+2024-12-05T15:23:25.587Z - MQTT client 1client5 published to topic: test1/topic/5
+2024-12-05T15:23:25.588Z - MQTT client 1client6 published to topic: test1/topic/6
+2024-12-05T15:23:25.589Z - MQTT client 1client39 published to topic: test1/topic/39
+2024-12-05T15:23:25.590Z - MQTT client 1client8 published to topic: test1/topic/8
+2024-12-05T15:23:25.591Z - MQTT client 1client81 published to topic: test1/topic/81
+2024-12-05T15:23:25.594Z - MQTT client 1client1 published to topic: test1/topic/1
+2024-12-05T15:23:25.594Z - MQTT client 1client7 published to topic: test1/topic/7
+2024-12-05T15:23:25.594Z - MQTT client 1client23 published to topic: test1/topic/23
+2024-12-05T15:23:25.595Z - MQTT client 1client89 published to topic: test1/topic/89
+2024-12-05T15:23:25.598Z - MQTT client 1client32 published to topic: test1/topic/32
+2024-12-05T15:23:25.599Z - MQTT client 1client9 published to topic: test1/topic/9
+2024-12-05T15:23:25.600Z - MQTT client 1client80 published to topic: test1/topic/80
+2024-12-05T15:23:25.619Z - MQTT client 1client88 published to topic: test1/topic/88
+2024-12-05T15:23:25.620Z - MQTT client 1client10 published to topic: test1/topic/10
+2024-12-05T15:23:25.621Z - MQTT client 1client2 published to topic: test1/topic/2
+2024-12-05T15:23:25.622Z - MQTT client 1client92 published to topic: test1/topic/92
+2024-12-05T15:23:25.622Z - MQTT client 1client96 published to topic: test1/topic/96
+2024-12-05T15:23:25.622Z - MQTT client 1client21 published to topic: test1/topic/21
+2024-12-05T15:23:25.623Z - MQTT client 1client31 published to topic: test1/topic/31
+2024-12-05T15:23:25.623Z - MQTT client 1client19 published to topic: test1/topic/19
+2024-12-05T15:23:25.623Z - MQTT client 1client97 published to topic: test1/topic/97
+2024-12-05T15:23:25.624Z - MQTT client 1client40 published to topic: test1/topic/40
+2024-12-05T15:23:25.626Z - MQTT client 1client29 published to topic: test1/topic/29
+2024-12-05T15:23:25.627Z - MQTT client 1client41 published to topic: test1/topic/41
+2024-12-05T15:23:25.627Z - MQTT client 1client99 published to topic: test1/topic/99
+2024-12-05T15:23:25.628Z - MQTT client 1client94 published to topic: test1/topic/94
+2024-12-05T15:23:25.628Z - MQTT client 1client12 published to topic: test1/topic/12
+2024-12-05T15:23:25.629Z - MQTT client 1client16 published to topic: test1/topic/16
+2024-12-05T15:23:25.629Z - MQTT client 1client15 published to topic: test1/topic/15
+2024-12-05T15:23:25.629Z - MQTT client 1client17 published to topic: test1/topic/17
+2024-12-05T15:23:25.630Z - MQTT client 1client28 published to topic: test1/topic/28
+2024-12-05T15:23:25.630Z - MQTT client 1client18 published to topic: test1/topic/18
+2024-12-05T15:23:25.631Z - MQTT client 1client34 published to topic: test1/topic/34
+2024-12-05T15:23:25.631Z - MQTT client 1client36 published to topic: test1/topic/36
+2024-12-05T15:23:25.632Z - MQTT client 1client86 published to topic: test1/topic/86
+2024-12-05T15:23:25.633Z - MQTT client 1client87 published to topic: test1/topic/87
+2024-12-05T15:23:25.633Z - MQTT client 1client93 published to topic: test1/topic/93
+2024-12-05T15:23:25.634Z - MQTT client 1client46 published to topic: test1/topic/46
+2024-12-05T15:23:25.634Z - MQTT client 1client37 published to topic: test1/topic/37
+2024-12-05T15:23:25.635Z - MQTT client 1client24 published to topic: test1/topic/24
+2024-12-05T15:23:25.636Z - MQTT client 1client47 published to topic: test1/topic/47
+2024-12-05T15:23:25.636Z - MQTT client 1client33 published to topic: test1/topic/33
+2024-12-05T15:23:25.637Z - MQTT client 1client48 published to topic: test1/topic/48
+2024-12-05T15:23:25.637Z - MQTT client 1client50 published to topic: test1/topic/50
+2024-12-05T15:23:25.638Z - MQTT client 1client42 published to topic: test1/topic/42
+2024-12-05T15:23:25.638Z - MQTT client 1client44 published to topic: test1/topic/44
+2024-12-05T15:23:25.639Z - MQTT client 1client45 published to topic: test1/topic/45
+2024-12-05T15:23:25.642Z - MQTT client 1client84 published to topic: test1/topic/84
+2024-12-05T15:23:25.642Z - MQTT client 1client85 published to topic: test1/topic/85
+2024-12-05T15:23:25.643Z - MQTT client 1client49 published to topic: test1/topic/49
+2024-12-05T15:23:25.643Z - MQTT client 1client51 published to topic: test1/topic/51
+2024-12-05T15:23:25.644Z - MQTT client 1client52 published to topic: test1/topic/52
+2024-12-05T15:23:25.645Z - MQTT client 1client53 published to topic: test1/topic/53
+2024-12-05T15:23:25.645Z - MQTT client 1client54 published to topic: test1/topic/54
+2024-12-05T15:23:25.645Z - MQTT client 1client55 published to topic: test1/topic/55
+2024-12-05T15:23:25.646Z - MQTT client 1client56 published to topic: test1/topic/56
+2024-12-05T15:23:25.646Z - MQTT client 1client57 published to topic: test1/topic/57
+2024-12-05T15:23:25.646Z - MQTT client 1client58 published to topic: test1/topic/58
+2024-12-05T15:23:25.647Z - MQTT client 1client59 published to topic: test1/topic/59
+2024-12-05T15:23:25.647Z - MQTT client 1client60 published to topic: test1/topic/60
+2024-12-05T15:23:25.647Z - MQTT client 1client62 published to topic: test1/topic/62
+2024-12-05T15:23:25.651Z - MQTT client 1client61 published to topic: test1/topic/61
+2024-12-05T15:23:25.651Z - MQTT client 1client65 published to topic: test1/topic/65
+2024-12-05T15:23:25.652Z - MQTT client 1client63 published to topic: test1/topic/63
+2024-12-05T15:23:25.652Z - MQTT client 1client67 published to topic: test1/topic/67
+2024-12-05T15:23:25.653Z - MQTT client 1client64 published to topic: test1/topic/64
+2024-12-05T15:23:25.653Z - MQTT client 1client70 published to topic: test1/topic/70
+2024-12-05T15:23:25.654Z - MQTT client 1client82 published to topic: test1/topic/82
+2024-12-05T15:23:25.654Z - MQTT client 1client68 published to topic: test1/topic/68
+2024-12-05T15:23:25.654Z - MQTT client 1client72 published to topic: test1/topic/72
+2024-12-05T15:23:25.655Z - MQTT client 1client71 published to topic: test1/topic/71
+2024-12-05T15:23:25.655Z - MQTT client 1client73 published to topic: test1/topic/73
+2024-12-05T15:23:25.667Z - MQTT client 1client74 published to topic: test1/topic/74
+2024-12-05T15:23:25.667Z - MQTT client 1client75 published to topic: test1/topic/75
+2024-12-05T15:23:25.668Z - MQTT client 1client76 published to topic: test1/topic/76
+2024-12-05T15:23:26.546Z - MQTT client 1client3 published to topic: test1/topic/3
+2024-12-05T15:23:26.547Z - MQTT client 1client11 published to topic: test1/topic/11
+2024-12-05T15:23:26.548Z - MQTT client 1client13 published to topic: test1/topic/13
+2024-12-05T15:23:26.563Z - MQTT client 1client20 published to topic: test1/topic/20
+2024-12-05T15:23:26.564Z - MQTT client 1client25 published to topic: test1/topic/25
+2024-12-05T15:23:26.566Z - MQTT client 1client22 published to topic: test1/topic/22
+2024-12-05T15:23:26.567Z - MQTT client 1client27 published to topic: test1/topic/27
+2024-12-05T15:23:26.571Z - MQTT client 1client26 published to topic: test1/topic/26
+2024-12-05T15:23:26.572Z - MQTT client 1client0 published to topic: test1/topic/0
+2024-12-05T15:23:26.574Z - MQTT client 1client4 published to topic: test1/topic/4
+2024-12-05T15:23:26.575Z - MQTT client 1client79 published to topic: test1/topic/79
+2024-12-05T15:23:26.576Z - MQTT client 1client95 published to topic: test1/topic/95
+2024-12-05T15:23:26.576Z - MQTT client 1client30 published to topic: test1/topic/30
+2024-12-05T15:23:26.579Z - MQTT client 1client38 published to topic: test1/topic/38
+2024-12-05T15:23:26.593Z - MQTT client 1client5 published to topic: test1/topic/5
+2024-12-05T15:23:26.594Z - MQTT client 1client6 published to topic: test1/topic/6
+2024-12-05T15:23:26.595Z - MQTT client 1client39 published to topic: test1/topic/39
+2024-12-05T15:23:26.596Z - MQTT client 1client8 published to topic: test1/topic/8
+2024-12-05T15:23:26.597Z - MQTT client 1client81 published to topic: test1/topic/81
+2024-12-05T15:23:26.597Z - MQTT client 1client1 published to topic: test1/topic/1
+2024-12-05T15:23:26.609Z - MQTT client 1client7 published to topic: test1/topic/7
+2024-12-05T15:23:26.609Z - MQTT client 1client23 published to topic: test1/topic/23
+2024-12-05T15:23:26.610Z - MQTT client 1client89 published to topic: test1/topic/89
+2024-12-05T15:23:26.610Z - MQTT client 1client32 published to topic: test1/topic/32
+2024-12-05T15:23:26.611Z - MQTT client 1client9 published to topic: test1/topic/9
+2024-12-05T15:23:26.611Z - MQTT client 1client80 published to topic: test1/topic/80
+2024-12-05T15:23:26.624Z - MQTT client 1client88 published to topic: test1/topic/88
+2024-12-05T15:23:26.625Z - MQTT client 1client10 published to topic: test1/topic/10
+2024-12-05T15:23:26.625Z - MQTT client 1client2 published to topic: test1/topic/2
+2024-12-05T15:23:26.626Z - MQTT client 1client92 published to topic: test1/topic/92
+2024-12-05T15:23:26.626Z - MQTT client 1client96 published to topic: test1/topic/96
+2024-12-05T15:23:26.627Z - MQTT client 1client21 published to topic: test1/topic/21
+2024-12-05T15:23:26.627Z - MQTT client 1client31 published to topic: test1/topic/31
+2024-12-05T15:23:26.628Z - MQTT client 1client19 published to topic: test1/topic/19
+2024-12-05T15:23:26.629Z - MQTT client 1client97 published to topic: test1/topic/97
+2024-12-05T15:23:26.629Z - MQTT client 1client40 published to topic: test1/topic/40
+2024-12-05T15:23:26.630Z - MQTT client 1client29 published to topic: test1/topic/29
+2024-12-05T15:23:26.630Z - MQTT client 1client41 published to topic: test1/topic/41
+2024-12-05T15:23:26.631Z - MQTT client 1client99 published to topic: test1/topic/99
+2024-12-05T15:23:26.631Z - MQTT client 1client94 published to topic: test1/topic/94
+2024-12-05T15:23:26.632Z - MQTT client 1client12 published to topic: test1/topic/12
+2024-12-05T15:23:26.632Z - MQTT client 1client16 published to topic: test1/topic/16
+2024-12-05T15:23:26.632Z - MQTT client 1client15 published to topic: test1/topic/15
+2024-12-05T15:23:26.633Z - MQTT client 1client17 published to topic: test1/topic/17
+2024-12-05T15:23:26.639Z - MQTT client 1client28 published to topic: test1/topic/28
+2024-12-05T15:23:26.640Z - MQTT client 1client18 published to topic: test1/topic/18
+2024-12-05T15:23:26.640Z - MQTT client 1client34 published to topic: test1/topic/34
+2024-12-05T15:23:26.641Z - MQTT client 1client36 published to topic: test1/topic/36
+2024-12-05T15:23:26.641Z - MQTT client 1client86 published to topic: test1/topic/86
+2024-12-05T15:23:26.641Z - MQTT client 1client87 published to topic: test1/topic/87
+2024-12-05T15:23:26.642Z - MQTT client 1client93 published to topic: test1/topic/93
+2024-12-05T15:23:26.642Z - MQTT client 1client46 published to topic: test1/topic/46
+2024-12-05T15:23:26.643Z - MQTT client 1client37 published to topic: test1/topic/37
+2024-12-05T15:23:26.643Z - MQTT client 1client24 published to topic: test1/topic/24
+2024-12-05T15:23:26.643Z - MQTT client 1client47 published to topic: test1/topic/47
+2024-12-05T15:23:26.644Z - MQTT client 1client33 published to topic: test1/topic/33
+2024-12-05T15:23:26.644Z - MQTT client 1client48 published to topic: test1/topic/48
+2024-12-05T15:23:26.645Z - MQTT client 1client50 published to topic: test1/topic/50
+2024-12-05T15:23:26.645Z - MQTT client 1client42 published to topic: test1/topic/42
+2024-12-05T15:23:26.646Z - MQTT client 1client44 published to topic: test1/topic/44
+2024-12-05T15:23:26.646Z - MQTT client 1client45 published to topic: test1/topic/45
+2024-12-05T15:23:26.655Z - MQTT client 1client84 published to topic: test1/topic/84
+2024-12-05T15:23:26.656Z - MQTT client 1client85 published to topic: test1/topic/85
+2024-12-05T15:23:26.656Z - MQTT client 1client49 published to topic: test1/topic/49
+2024-12-05T15:23:26.657Z - MQTT client 1client51 published to topic: test1/topic/51
+2024-12-05T15:23:26.657Z - MQTT client 1client52 published to topic: test1/topic/52
+2024-12-05T15:23:26.657Z - MQTT client 1client53 published to topic: test1/topic/53
+2024-12-05T15:23:26.658Z - MQTT client 1client54 published to topic: test1/topic/54
+2024-12-05T15:23:26.658Z - MQTT client 1client55 published to topic: test1/topic/55
+2024-12-05T15:23:26.659Z - MQTT client 1client56 published to topic: test1/topic/56
+2024-12-05T15:23:26.659Z - MQTT client 1client57 published to topic: test1/topic/57
+2024-12-05T15:23:26.660Z - MQTT client 1client58 published to topic: test1/topic/58
+2024-12-05T15:23:26.660Z - MQTT client 1client59 published to topic: test1/topic/59
+2024-12-05T15:23:26.660Z - MQTT client 1client60 published to topic: test1/topic/60
+2024-12-05T15:23:26.661Z - MQTT client 1client62 published to topic: test1/topic/62
+2024-12-05T15:23:26.661Z - MQTT client 1client61 published to topic: test1/topic/61
+2024-12-05T15:23:26.661Z - MQTT client 1client65 published to topic: test1/topic/65
+2024-12-05T15:23:26.662Z - MQTT client 1client63 published to topic: test1/topic/63
+2024-12-05T15:23:26.662Z - MQTT client 1client67 published to topic: test1/topic/67
+2024-12-05T15:23:26.663Z - MQTT client 1client64 published to topic: test1/topic/64
+2024-12-05T15:23:26.663Z - MQTT client 1client70 published to topic: test1/topic/70
+2024-12-05T15:23:26.663Z - MQTT client 1client82 published to topic: test1/topic/82
+2024-12-05T15:23:26.664Z - MQTT client 1client68 published to topic: test1/topic/68
+2024-12-05T15:23:26.664Z - MQTT client 1client72 published to topic: test1/topic/72
+2024-12-05T15:23:26.665Z - MQTT client 1client71 published to topic: test1/topic/71
+2024-12-05T15:23:26.665Z - MQTT client 1client73 published to topic: test1/topic/73
+2024-12-05T15:23:26.670Z - MQTT client 1client74 published to topic: test1/topic/74
+2024-12-05T15:23:26.671Z - MQTT client 1client75 published to topic: test1/topic/75
+2024-12-05T15:23:26.671Z - MQTT client 1client76 published to topic: test1/topic/76
+2024-12-05T15:23:27.555Z - MQTT client 1client3 published to topic: test1/topic/3
+2024-12-05T15:23:27.559Z - MQTT client 1client11 published to topic: test1/topic/11
+2024-12-05T15:23:27.563Z - MQTT client 1client13 published to topic: test1/topic/13
+2024-12-05T15:23:27.567Z - MQTT client 1client20 published to topic: test1/topic/20
+2024-12-05T15:23:27.570Z - MQTT client 1client25 published to topic: test1/topic/25
+2024-12-05T15:23:27.589Z - MQTT client 1client22 published to topic: test1/topic/22
+2024-12-05T15:23:27.590Z - MQTT client 1client27 published to topic: test1/topic/27
+2024-12-05T15:23:27.590Z - MQTT client 1client26 published to topic: test1/topic/26
+2024-12-05T15:23:27.603Z - MQTT client 1client0 published to topic: test1/topic/0
+2024-12-05T15:23:27.604Z - MQTT client 1client4 published to topic: test1/topic/4
+2024-12-05T15:23:27.605Z - MQTT client 1client79 published to topic: test1/topic/79
+2024-12-05T15:23:27.606Z - MQTT client 1client95 published to topic: test1/topic/95
+2024-12-05T15:23:27.606Z - MQTT client 1client30 published to topic: test1/topic/30
+2024-12-05T15:23:27.606Z - MQTT client 1client38 published to topic: test1/topic/38
+2024-12-05T15:23:27.607Z - MQTT client 1client5 published to topic: test1/topic/5
+2024-12-05T15:23:27.610Z - MQTT client 1client6 published to topic: test1/topic/6
+2024-12-05T15:23:27.610Z - MQTT client 1client39 published to topic: test1/topic/39
+2024-12-05T15:23:27.611Z - MQTT client 1client8 published to topic: test1/topic/8
+2024-12-05T15:23:27.612Z - MQTT client 1client81 published to topic: test1/topic/81
+2024-12-05T15:23:27.613Z - MQTT client 1client1 published to topic: test1/topic/1
+2024-12-05T15:23:27.613Z - MQTT client 1client7 published to topic: test1/topic/7
+2024-12-05T15:23:27.614Z - MQTT client 1client23 published to topic: test1/topic/23
+2024-12-05T15:23:27.614Z - MQTT client 1client89 published to topic: test1/topic/89
+2024-12-05T15:23:27.614Z - MQTT client 1client32 published to topic: test1/topic/32
+2024-12-05T15:23:27.615Z - MQTT client 1client9 published to topic: test1/topic/9
+2024-12-05T15:23:27.616Z - MQTT client 1client80 published to topic: test1/topic/80
+2024-12-05T15:23:27.634Z - MQTT client 1client88 published to topic: test1/topic/88
+2024-12-05T15:23:27.636Z - MQTT client 1client10 published to topic: test1/topic/10
+2024-12-05T15:23:27.636Z - MQTT client 1client2 published to topic: test1/topic/2
+2024-12-05T15:23:27.636Z - MQTT client 1client92 published to topic: test1/topic/92
+2024-12-05T15:23:27.637Z - MQTT client 1client96 published to topic: test1/topic/96
+2024-12-05T15:23:27.637Z - MQTT client 1client21 published to topic: test1/topic/21
+2024-12-05T15:23:27.638Z - MQTT client 1client31 published to topic: test1/topic/31
+2024-12-05T15:23:27.639Z - MQTT client 1client19 published to topic: test1/topic/19
+2024-12-05T15:23:27.639Z - MQTT client 1client97 published to topic: test1/topic/97
+2024-12-05T15:23:27.640Z - MQTT client 1client40 published to topic: test1/topic/40
+2024-12-05T15:23:27.641Z - MQTT client 1client29 published to topic: test1/topic/29
+2024-12-05T15:23:27.641Z - MQTT client 1client41 published to topic: test1/topic/41
+2024-12-05T15:23:27.642Z - MQTT client 1client99 published to topic: test1/topic/99
+2024-12-05T15:23:27.642Z - MQTT client 1client94 published to topic: test1/topic/94
+2024-12-05T15:23:27.642Z - MQTT client 1client12 published to topic: test1/topic/12
+2024-12-05T15:23:27.643Z - MQTT client 1client16 published to topic: test1/topic/16
+2024-12-05T15:23:27.643Z - MQTT client 1client15 published to topic: test1/topic/15
+2024-12-05T15:23:27.644Z - MQTT client 1client17 published to topic: test1/topic/17
+2024-12-05T15:23:27.644Z - MQTT client 1client28 published to topic: test1/topic/28
+2024-12-05T15:23:27.645Z - MQTT client 1client18 published to topic: test1/topic/18
+2024-12-05T15:23:27.645Z - MQTT client 1client34 published to topic: test1/topic/34
+2024-12-05T15:23:27.645Z - MQTT client 1client36 published to topic: test1/topic/36
+2024-12-05T15:23:27.646Z - MQTT client 1client86 published to topic: test1/topic/86
+2024-12-05T15:23:27.646Z - MQTT client 1client87 published to topic: test1/topic/87
+2024-12-05T15:23:27.646Z - MQTT client 1client93 published to topic: test1/topic/93
+2024-12-05T15:23:27.647Z - MQTT client 1client46 published to topic: test1/topic/46
+2024-12-05T15:23:27.647Z - MQTT client 1client37 published to topic: test1/topic/37
+2024-12-05T15:23:27.648Z - MQTT client 1client24 published to topic: test1/topic/24
+2024-12-05T15:23:27.648Z - MQTT client 1client47 published to topic: test1/topic/47
+2024-12-05T15:23:27.649Z - MQTT client 1client33 published to topic: test1/topic/33
+2024-12-05T15:23:27.649Z - MQTT client 1client48 published to topic: test1/topic/48
+2024-12-05T15:23:27.650Z - MQTT client 1client50 published to topic: test1/topic/50
+2024-12-05T15:23:27.665Z - MQTT client 1client42 published to topic: test1/topic/42
+2024-12-05T15:23:27.666Z - MQTT client 1client44 published to topic: test1/topic/44
+2024-12-05T15:23:27.666Z - MQTT client 1client45 published to topic: test1/topic/45
+2024-12-05T15:23:27.667Z - MQTT client 1client84 published to topic: test1/topic/84
+2024-12-05T15:23:27.667Z - MQTT client 1client85 published to topic: test1/topic/85
+2024-12-05T15:23:27.668Z - MQTT client 1client49 published to topic: test1/topic/49
+2024-12-05T15:23:27.669Z - MQTT client 1client51 published to topic: test1/topic/51
+2024-12-05T15:23:27.669Z - MQTT client 1client52 published to topic: test1/topic/52
+2024-12-05T15:23:27.670Z - MQTT client 1client53 published to topic: test1/topic/53
+2024-12-05T15:23:27.670Z - MQTT client 1client54 published to topic: test1/topic/54
+2024-12-05T15:23:27.671Z - MQTT client 1client55 published to topic: test1/topic/55
+2024-12-05T15:23:27.671Z - MQTT client 1client56 published to topic: test1/topic/56
+2024-12-05T15:23:27.672Z - MQTT client 1client57 published to topic: test1/topic/57
+2024-12-05T15:23:27.672Z - MQTT client 1client58 published to topic: test1/topic/58
+2024-12-05T15:23:27.673Z - MQTT client 1client59 published to topic: test1/topic/59
+2024-12-05T15:23:27.673Z - MQTT client 1client60 published to topic: test1/topic/60
+2024-12-05T15:23:27.674Z - MQTT client 1client62 published to topic: test1/topic/62
+2024-12-05T15:23:27.674Z - MQTT client 1client61 published to topic: test1/topic/61
+2024-12-05T15:23:27.674Z - MQTT client 1client65 published to topic: test1/topic/65
+2024-12-05T15:23:27.675Z - MQTT client 1client63 published to topic: test1/topic/63
+2024-12-05T15:23:27.675Z - MQTT client 1client67 published to topic: test1/topic/67
+2024-12-05T15:23:27.676Z - MQTT client 1client64 published to topic: test1/topic/64
+2024-12-05T15:23:27.676Z - MQTT client 1client70 published to topic: test1/topic/70
+2024-12-05T15:23:27.677Z - MQTT client 1client82 published to topic: test1/topic/82
+2024-12-05T15:23:27.677Z - MQTT client 1client68 published to topic: test1/topic/68
+2024-12-05T15:23:27.677Z - MQTT client 1client72 published to topic: test1/topic/72
+2024-12-05T15:23:27.678Z - MQTT client 1client71 published to topic: test1/topic/71
+2024-12-05T15:23:27.678Z - MQTT client 1client73 published to topic: test1/topic/73
+2024-12-05T15:23:27.678Z - MQTT client 1client74 published to topic: test1/topic/74
+2024-12-05T15:23:27.679Z - MQTT client 1client75 published to topic: test1/topic/75
+2024-12-05T15:23:27.679Z - MQTT client 1client76 published to topic: test1/topic/76
+2024-12-05T15:23:28.559Z - MQTT client 1client3 published to topic: test1/topic/3
+2024-12-05T15:23:28.560Z - MQTT client 1client11 published to topic: test1/topic/11
+2024-12-05T15:23:28.575Z - MQTT client 1client13 published to topic: test1/topic/13
+2024-12-05T15:23:28.575Z - MQTT client 1client20 published to topic: test1/topic/20
+2024-12-05T15:23:28.576Z - MQTT client 1client25 published to topic: test1/topic/25
+2024-12-05T15:23:28.591Z - MQTT client 1client22 published to topic: test1/topic/22
+2024-12-05T15:23:28.592Z - MQTT client 1client27 published to topic: test1/topic/27
+2024-12-05T15:23:28.592Z - MQTT client 1client26 published to topic: test1/topic/26
+2024-12-05T15:23:28.607Z - MQTT client 1client0 published to topic: test1/topic/0
+2024-12-05T15:23:28.608Z - MQTT client 1client4 published to topic: test1/topic/4
+2024-12-05T15:23:28.609Z - MQTT client 1client79 published to topic: test1/topic/79
+2024-12-05T15:23:28.611Z - MQTT client 1client95 published to topic: test1/topic/95
+2024-12-05T15:23:28.612Z - MQTT client 1client30 published to topic: test1/topic/30
+2024-12-05T15:23:28.613Z - MQTT client 1client38 published to topic: test1/topic/38
+2024-12-05T15:23:28.614Z - MQTT client 1client5 published to topic: test1/topic/5
+2024-12-05T15:23:28.615Z - MQTT client 1client6 published to topic: test1/topic/6
+2024-12-05T15:23:28.616Z - MQTT client 1client39 published to topic: test1/topic/39
+2024-12-05T15:23:28.617Z - MQTT client 1client8 published to topic: test1/topic/8
+2024-12-05T15:23:28.618Z - MQTT client 1client81 published to topic: test1/topic/81
+2024-12-05T15:23:28.619Z - MQTT client 1client1 published to topic: test1/topic/1
+2024-12-05T15:23:28.620Z - MQTT client 1client7 published to topic: test1/topic/7
+2024-12-05T15:23:28.622Z - MQTT client 1client23 published to topic: test1/topic/23
+2024-12-05T15:23:28.623Z - MQTT client 1client89 published to topic: test1/topic/89
+2024-12-05T15:23:28.623Z - MQTT client 1client32 published to topic: test1/topic/32
+2024-12-05T15:23:28.639Z - MQTT client 1client9 published to topic: test1/topic/9
+2024-12-05T15:23:28.640Z - MQTT client 1client80 published to topic: test1/topic/80
+2024-12-05T15:23:28.641Z - MQTT client 1client88 published to topic: test1/topic/88
+2024-12-05T15:23:28.641Z - MQTT client 1client10 published to topic: test1/topic/10
+2024-12-05T15:23:28.642Z - MQTT client 1client2 published to topic: test1/topic/2
+2024-12-05T15:23:28.643Z - MQTT client 1client92 published to topic: test1/topic/92
+2024-12-05T15:23:28.644Z - MQTT client 1client96 published to topic: test1/topic/96
+2024-12-05T15:23:28.644Z - MQTT client 1client21 published to topic: test1/topic/21
+2024-12-05T15:23:28.645Z - MQTT client 1client31 published to topic: test1/topic/31
+2024-12-05T15:23:28.646Z - MQTT client 1client19 published to topic: test1/topic/19
+2024-12-05T15:23:28.648Z - MQTT client 1client97 published to topic: test1/topic/97
+2024-12-05T15:23:28.648Z - MQTT client 1client40 published to topic: test1/topic/40
+2024-12-05T15:23:28.649Z - MQTT client 1client29 published to topic: test1/topic/29
+2024-12-05T15:23:28.656Z - MQTT client 1client41 published to topic: test1/topic/41
+2024-12-05T15:23:28.658Z - MQTT client 1client99 published to topic: test1/topic/99
+2024-12-05T15:23:28.659Z - MQTT client 1client94 published to topic: test1/topic/94
+2024-12-05T15:23:28.661Z - MQTT client 1client12 published to topic: test1/topic/12
+2024-12-05T15:23:28.662Z - MQTT client 1client16 published to topic: test1/topic/16
+2024-12-05T15:23:28.662Z - MQTT client 1client15 published to topic: test1/topic/15
+2024-12-05T15:23:28.662Z - MQTT client 1client17 published to topic: test1/topic/17
+2024-12-05T15:23:28.664Z - MQTT client 1client28 published to topic: test1/topic/28
+2024-12-05T15:23:28.664Z - MQTT client 1client18 published to topic: test1/topic/18
+2024-12-05T15:23:28.665Z - MQTT client 1client34 published to topic: test1/topic/34
+2024-12-05T15:23:28.667Z - MQTT client 1client36 published to topic: test1/topic/36
+2024-12-05T15:23:28.667Z - MQTT client 1client86 published to topic: test1/topic/86
+2024-12-05T15:23:28.668Z - MQTT client 1client87 published to topic: test1/topic/87
+2024-12-05T15:23:28.668Z - MQTT client 1client93 published to topic: test1/topic/93
+2024-12-05T15:23:28.669Z - MQTT client 1client46 published to topic: test1/topic/46
+2024-12-05T15:23:28.669Z - MQTT client 1client37 published to topic: test1/topic/37
+2024-12-05T15:23:28.670Z - MQTT client 1client24 published to topic: test1/topic/24
+2024-12-05T15:23:28.671Z - MQTT client 1client47 published to topic: test1/topic/47
+2024-12-05T15:23:28.672Z - MQTT client 1client33 published to topic: test1/topic/33
+2024-12-05T15:23:28.673Z - MQTT client 1client48 published to topic: test1/topic/48
+2024-12-05T15:23:28.674Z - MQTT client 1client50 published to topic: test1/topic/50
+2024-12-05T15:23:28.675Z - MQTT client 1client42 published to topic: test1/topic/42
+2024-12-05T15:23:28.675Z - MQTT client 1client44 published to topic: test1/topic/44
+2024-12-05T15:23:28.675Z - MQTT client 1client45 published to topic: test1/topic/45
+2024-12-05T15:23:28.676Z - MQTT client 1client84 published to topic: test1/topic/84
+2024-12-05T15:23:28.676Z - MQTT client 1client85 published to topic: test1/topic/85
+2024-12-05T15:23:28.677Z - MQTT client 1client49 published to topic: test1/topic/49
+2024-12-05T15:23:28.677Z - MQTT client 1client51 published to topic: test1/topic/51
+2024-12-05T15:23:28.677Z - MQTT client 1client52 published to topic: test1/topic/52
+2024-12-05T15:23:28.678Z - MQTT client 1client53 published to topic: test1/topic/53
+2024-12-05T15:23:28.678Z - MQTT client 1client54 published to topic: test1/topic/54
+2024-12-05T15:23:28.678Z - MQTT client 1client55 published to topic: test1/topic/55
+2024-12-05T15:23:28.679Z - MQTT client 1client56 published to topic: test1/topic/56
+2024-12-05T15:23:28.680Z - MQTT client 1client57 published to topic: test1/topic/57
+2024-12-05T15:23:28.680Z - MQTT client 1client58 published to topic: test1/topic/58
+2024-12-05T15:23:28.681Z - MQTT client 1client59 published to topic: test1/topic/59
+2024-12-05T15:23:28.681Z - MQTT client 1client60 published to topic: test1/topic/60
+2024-12-05T15:23:28.681Z - MQTT client 1client62 published to topic: test1/topic/62
+2024-12-05T15:23:28.682Z - MQTT client 1client61 published to topic: test1/topic/61
+2024-12-05T15:23:28.682Z - MQTT client 1client65 published to topic: test1/topic/65
+2024-12-05T15:23:28.682Z - MQTT client 1client63 published to topic: test1/topic/63
+2024-12-05T15:23:28.683Z - MQTT client 1client67 published to topic: test1/topic/67
+2024-12-05T15:23:28.683Z - MQTT client 1client64 published to topic: test1/topic/64
+2024-12-05T15:23:28.684Z - MQTT client 1client70 published to topic: test1/topic/70
+2024-12-05T15:23:28.684Z - MQTT client 1client82 published to topic: test1/topic/82
+2024-12-05T15:23:28.684Z - MQTT client 1client68 published to topic: test1/topic/68
+2024-12-05T15:23:28.685Z - MQTT client 1client72 published to topic: test1/topic/72
+2024-12-05T15:23:28.685Z - MQTT client 1client71 published to topic: test1/topic/71
+2024-12-05T15:23:28.686Z - MQTT client 1client73 published to topic: test1/topic/73
+2024-12-05T15:23:28.687Z - MQTT client 1client74 published to topic: test1/topic/74
+2024-12-05T15:23:28.687Z - MQTT client 1client75 published to topic: test1/topic/75
+2024-12-05T15:23:28.702Z - MQTT client 1client76 published to topic: test1/topic/76
+2024-12-05T15:23:29.564Z - MQTT client 1client3 published to topic: test1/topic/3
+2024-12-05T15:23:29.570Z - MQTT client 1client11 published to topic: test1/topic/11
+2024-12-05T15:23:29.577Z - MQTT client 1client13 published to topic: test1/topic/13
+2024-12-05T15:23:29.589Z - MQTT client 1client20 published to topic: test1/topic/20
+2024-12-05T15:23:29.595Z - MQTT client 1client25 published to topic: test1/topic/25
+2024-12-05T15:23:29.607Z - MQTT client 1client22 published to topic: test1/topic/22
+2024-12-05T15:23:29.614Z - MQTT client 1client27 published to topic: test1/topic/27
+2024-12-05T15:23:29.620Z - MQTT client 1client26 published to topic: test1/topic/26
+2024-12-05T15:23:29.627Z - MQTT client 1client0 published to topic: test1/topic/0
+2024-12-05T15:23:29.628Z - MQTT client 1client4 published to topic: test1/topic/4
+2024-12-05T15:23:29.636Z - MQTT client 1client79 published to topic: test1/topic/79
+2024-12-05T15:23:29.641Z - MQTT client 1client95 published to topic: test1/topic/95
+2024-12-05T15:23:29.642Z - MQTT client 1client30 published to topic: test1/topic/30
+2024-12-05T15:23:29.643Z - MQTT client 1client38 published to topic: test1/topic/38
+2024-12-05T15:23:29.646Z - MQTT client 1client5 published to topic: test1/topic/5
+2024-12-05T15:23:29.646Z - MQTT client 1client6 published to topic: test1/topic/6
+2024-12-05T15:23:29.649Z - MQTT client 1client39 published to topic: test1/topic/39
+2024-12-05T15:23:29.650Z - MQTT client 1client8 published to topic: test1/topic/8
+2024-12-05T15:23:29.651Z - MQTT client 1client81 published to topic: test1/topic/81
+2024-12-05T15:23:29.653Z - MQTT client 1client1 published to topic: test1/topic/1
+2024-12-05T15:23:29.655Z - MQTT client 1client7 published to topic: test1/topic/7
+2024-12-05T15:23:29.657Z - MQTT client 1client23 published to topic: test1/topic/23
+2024-12-05T15:23:29.657Z - MQTT client 1client89 published to topic: test1/topic/89
+2024-12-05T15:23:29.658Z - MQTT client 1client32 published to topic: test1/topic/32
+2024-12-05T15:23:29.674Z - MQTT client 1client9 published to topic: test1/topic/9
+2024-12-05T15:23:29.675Z - MQTT client 1client80 published to topic: test1/topic/80
+2024-12-05T15:23:29.676Z - MQTT client 1client88 published to topic: test1/topic/88
+2024-12-05T15:23:29.676Z - MQTT client 1client10 published to topic: test1/topic/10
+2024-12-05T15:23:29.677Z - MQTT client 1client2 published to topic: test1/topic/2
+2024-12-05T15:23:29.677Z - MQTT client 1client92 published to topic: test1/topic/92
+2024-12-05T15:23:29.677Z - MQTT client 1client96 published to topic: test1/topic/96
+2024-12-05T15:23:29.678Z - MQTT client 1client21 published to topic: test1/topic/21
+2024-12-05T15:23:29.678Z - MQTT client 1client31 published to topic: test1/topic/31
+2024-12-05T15:23:29.679Z - MQTT client 1client19 published to topic: test1/topic/19
+2024-12-05T15:23:29.680Z - MQTT client 1client97 published to topic: test1/topic/97
+2024-12-05T15:23:29.680Z - MQTT client 1client40 published to topic: test1/topic/40
+2024-12-05T15:23:29.681Z - MQTT client 1client29 published to topic: test1/topic/29
+2024-12-05T15:23:29.681Z - MQTT client 1client41 published to topic: test1/topic/41
+2024-12-05T15:23:29.681Z - MQTT client 1client99 published to topic: test1/topic/99
+2024-12-05T15:23:29.682Z - MQTT client 1client94 published to topic: test1/topic/94
+2024-12-05T15:23:29.682Z - MQTT client 1client12 published to topic: test1/topic/12
+2024-12-05T15:23:29.683Z - MQTT client 1client16 published to topic: test1/topic/16
+2024-12-05T15:23:29.684Z - MQTT client 1client15 published to topic: test1/topic/15
+2024-12-05T15:23:29.684Z - MQTT client 1client17 published to topic: test1/topic/17
+2024-12-05T15:23:29.685Z - MQTT client 1client28 published to topic: test1/topic/28
+2024-12-05T15:23:29.685Z - MQTT client 1client18 published to topic: test1/topic/18
+2024-12-05T15:23:29.686Z - MQTT client 1client34 published to topic: test1/topic/34
+2024-12-05T15:23:29.686Z - MQTT client 1client36 published to topic: test1/topic/36
+2024-12-05T15:23:29.686Z - MQTT client 1client86 published to topic: test1/topic/86
+2024-12-05T15:23:29.687Z - MQTT client 1client87 published to topic: test1/topic/87
+2024-12-05T15:23:29.687Z - MQTT client 1client93 published to topic: test1/topic/93
+2024-12-05T15:23:29.688Z - MQTT client 1client46 published to topic: test1/topic/46
+2024-12-05T15:23:29.688Z - MQTT client 1client37 published to topic: test1/topic/37
+2024-12-05T15:23:29.689Z - MQTT client 1client24 published to topic: test1/topic/24
+2024-12-05T15:23:29.689Z - MQTT client 1client47 published to topic: test1/topic/47
+2024-12-05T15:23:29.689Z - MQTT client 1client33 published to topic: test1/topic/33
+2024-12-05T15:23:29.690Z - MQTT client 1client48 published to topic: test1/topic/48
+2024-12-05T15:23:29.690Z - MQTT client 1client50 published to topic: test1/topic/50
+2024-12-05T15:23:29.691Z - MQTT client 1client42 published to topic: test1/topic/42
+2024-12-05T15:23:29.691Z - MQTT client 1client44 published to topic: test1/topic/44
+2024-12-05T15:23:29.691Z - MQTT client 1client45 published to topic: test1/topic/45
+2024-12-05T15:23:29.692Z - MQTT client 1client84 published to topic: test1/topic/84
+2024-12-05T15:23:29.692Z - MQTT client 1client85 published to topic: test1/topic/85
+2024-12-05T15:23:29.692Z - MQTT client 1client49 published to topic: test1/topic/49
+2024-12-05T15:23:29.693Z - MQTT client 1client51 published to topic: test1/topic/51
+2024-12-05T15:23:29.693Z - MQTT client 1client52 published to topic: test1/topic/52
+2024-12-05T15:23:29.693Z - MQTT client 1client53 published to topic: test1/topic/53
+2024-12-05T15:23:29.693Z - MQTT client 1client54 published to topic: test1/topic/54
+2024-12-05T15:23:29.694Z - MQTT client 1client55 published to topic: test1/topic/55
+2024-12-05T15:23:29.694Z - MQTT client 1client56 published to topic: test1/topic/56
+2024-12-05T15:23:29.695Z - MQTT client 1client57 published to topic: test1/topic/57
+2024-12-05T15:23:29.695Z - MQTT client 1client58 published to topic: test1/topic/58
+2024-12-05T15:23:29.695Z - MQTT client 1client59 published to topic: test1/topic/59
+2024-12-05T15:23:29.696Z - MQTT client 1client60 published to topic: test1/topic/60
+2024-12-05T15:23:29.696Z - MQTT client 1client62 published to topic: test1/topic/62
+2024-12-05T15:23:29.697Z - MQTT client 1client61 published to topic: test1/topic/61
+2024-12-05T15:23:29.697Z - MQTT client 1client65 published to topic: test1/topic/65
+2024-12-05T15:23:29.697Z - MQTT client 1client63 published to topic: test1/topic/63
+2024-12-05T15:23:29.698Z - MQTT client 1client67 published to topic: test1/topic/67
+2024-12-05T15:23:29.698Z - MQTT client 1client64 published to topic: test1/topic/64
+2024-12-05T15:23:29.699Z - MQTT client 1client70 published to topic: test1/topic/70
+2024-12-05T15:23:29.699Z - MQTT client 1client82 published to topic: test1/topic/82
+2024-12-05T15:23:29.699Z - MQTT client 1client68 published to topic: test1/topic/68
+2024-12-05T15:23:29.700Z - MQTT client 1client72 published to topic: test1/topic/72
+2024-12-05T15:23:29.700Z - MQTT client 1client71 published to topic: test1/topic/71
+2024-12-05T15:23:29.701Z - MQTT client 1client73 published to topic: test1/topic/73
+2024-12-05T15:23:29.701Z - MQTT client 1client74 published to topic: test1/topic/74
+2024-12-05T15:23:29.701Z - MQTT client 1client75 published to topic: test1/topic/75
+2024-12-05T15:23:29.706Z - MQTT client 1client76 published to topic: test1/topic/76
+2024-12-05T15:23:30.569Z - MQTT client 1client3 published to topic: test1/topic/3
+2024-12-05T15:23:30.574Z - MQTT client 1client11 published to topic: test1/topic/11
+2024-12-05T15:23:30.577Z - MQTT client 1client13 published to topic: test1/topic/13
+2024-12-05T15:23:30.594Z - MQTT client 1client20 published to topic: test1/topic/20
+2024-12-05T15:23:30.597Z - MQTT client 1client25 published to topic: test1/topic/25
+2024-12-05T15:23:30.601Z - MQTT client 1client22 published to topic: test1/topic/22
+2024-12-05T15:23:30.615Z - MQTT client 1client27 published to topic: test1/topic/27
+2024-12-05T15:23:30.630Z - MQTT client 1client26 published to topic: test1/topic/26
+2024-12-05T15:23:30.631Z - MQTT client 1client0 published to topic: test1/topic/0
+2024-12-05T15:23:30.634Z - MQTT client 1client4 published to topic: test1/topic/4
+2024-12-05T15:23:30.637Z - MQTT client 1client79 published to topic: test1/topic/79
+2024-12-05T15:23:30.638Z - MQTT client 1client95 published to topic: test1/topic/95
+2024-12-05T15:23:30.645Z - MQTT client 1client30 published to topic: test1/topic/30
+2024-12-05T15:23:30.645Z - MQTT client 1client38 published to topic: test1/topic/38
+2024-12-05T15:23:30.645Z - MQTT client 1client5 published to topic: test1/topic/5
+2024-12-05T15:23:30.646Z - MQTT client 1client6 published to topic: test1/topic/6
+2024-12-05T15:23:30.660Z - MQTT client 1client39 published to topic: test1/topic/39
+2024-12-05T15:23:30.660Z - MQTT client 1client8 published to topic: test1/topic/8
+2024-12-05T15:23:30.661Z - MQTT client 1client81 published to topic: test1/topic/81
+2024-12-05T15:23:30.663Z - MQTT client 1client1 published to topic: test1/topic/1
+2024-12-05T15:23:30.663Z - MQTT client 1client7 published to topic: test1/topic/7
+2024-12-05T15:23:30.664Z - MQTT client 1client23 published to topic: test1/topic/23
+2024-12-05T15:23:30.664Z - MQTT client 1client89 published to topic: test1/topic/89
+2024-12-05T15:23:30.665Z - MQTT client 1client32 published to topic: test1/topic/32
+2024-12-05T15:23:30.676Z - MQTT client 1client9 published to topic: test1/topic/9
+2024-12-05T15:23:30.676Z - MQTT client 1client80 published to topic: test1/topic/80
+2024-12-05T15:23:30.677Z - MQTT client 1client88 published to topic: test1/topic/88
+2024-12-05T15:23:30.691Z - MQTT client 1client10 published to topic: test1/topic/10
+2024-12-05T15:23:30.692Z - MQTT client 1client2 published to topic: test1/topic/2
+2024-12-05T15:23:30.692Z - MQTT client 1client92 published to topic: test1/topic/92
+2024-12-05T15:23:30.693Z - MQTT client 1client96 published to topic: test1/topic/96
+2024-12-05T15:23:30.694Z - MQTT client 1client21 published to topic: test1/topic/21
+2024-12-05T15:23:30.694Z - MQTT client 1client31 published to topic: test1/topic/31
+2024-12-05T15:23:30.695Z - MQTT client 1client19 published to topic: test1/topic/19
+2024-12-05T15:23:30.697Z - MQTT client 1client97 published to topic: test1/topic/97
+2024-12-05T15:23:30.698Z - MQTT client 1client40 published to topic: test1/topic/40
+2024-12-05T15:23:30.698Z - MQTT client 1client29 published to topic: test1/topic/29
+2024-12-05T15:23:30.698Z - MQTT client 1client41 published to topic: test1/topic/41
+2024-12-05T15:23:30.701Z - MQTT client 1client99 published to topic: test1/topic/99
+2024-12-05T15:23:30.701Z - MQTT client 1client94 published to topic: test1/topic/94
+2024-12-05T15:23:30.702Z - MQTT client 1client12 published to topic: test1/topic/12
+2024-12-05T15:23:30.702Z - MQTT client 1client16 published to topic: test1/topic/16
+2024-12-05T15:23:30.702Z - MQTT client 1client15 published to topic: test1/topic/15
+2024-12-05T15:23:30.703Z - MQTT client 1client17 published to topic: test1/topic/17
+2024-12-05T15:23:30.704Z - MQTT client 1client28 published to topic: test1/topic/28
+2024-12-05T15:23:30.704Z - MQTT client 1client18 published to topic: test1/topic/18
+2024-12-05T15:23:30.705Z - MQTT client 1client34 published to topic: test1/topic/34
+2024-12-05T15:23:30.705Z - MQTT client 1client36 published to topic: test1/topic/36
+2024-12-05T15:23:30.705Z - MQTT client 1client86 published to topic: test1/topic/86
+2024-12-05T15:23:30.706Z - MQTT client 1client87 published to topic: test1/topic/87
+2024-12-05T15:23:30.706Z - MQTT client 1client93 published to topic: test1/topic/93
+2024-12-05T15:23:30.707Z - MQTT client 1client46 published to topic: test1/topic/46
+2024-12-05T15:23:30.708Z - MQTT client 1client37 published to topic: test1/topic/37
+2024-12-05T15:23:30.708Z - MQTT client 1client24 published to topic: test1/topic/24
+2024-12-05T15:23:30.708Z - MQTT client 1client47 published to topic: test1/topic/47
+2024-12-05T15:23:30.709Z - MQTT client 1client33 published to topic: test1/topic/33
+2024-12-05T15:23:30.709Z - MQTT client 1client48 published to topic: test1/topic/48
+2024-12-05T15:23:30.709Z - MQTT client 1client50 published to topic: test1/topic/50
+2024-12-05T15:23:30.710Z - MQTT client 1client42 published to topic: test1/topic/42
+2024-12-05T15:23:30.710Z - MQTT client 1client44 published to topic: test1/topic/44
+2024-12-05T15:23:30.710Z - MQTT client 1client45 published to topic: test1/topic/45
+2024-12-05T15:23:30.711Z - MQTT client 1client84 published to topic: test1/topic/84
+2024-12-05T15:23:30.711Z - MQTT client 1client85 published to topic: test1/topic/85
+2024-12-05T15:23:30.712Z - MQTT client 1client49 published to topic: test1/topic/49
+2024-12-05T15:23:30.712Z - MQTT client 1client51 published to topic: test1/topic/51
+2024-12-05T15:23:30.713Z - MQTT client 1client52 published to topic: test1/topic/52
+2024-12-05T15:23:30.713Z - MQTT client 1client53 published to topic: test1/topic/53
+2024-12-05T15:23:30.713Z - MQTT client 1client54 published to topic: test1/topic/54
+2024-12-05T15:23:30.714Z - MQTT client 1client55 published to topic: test1/topic/55
+2024-12-05T15:23:30.714Z - MQTT client 1client56 published to topic: test1/topic/56
+2024-12-05T15:23:30.714Z - MQTT client 1client57 published to topic: test1/topic/57
+2024-12-05T15:23:30.715Z - MQTT client 1client58 published to topic: test1/topic/58
+2024-12-05T15:23:30.715Z - MQTT client 1client59 published to topic: test1/topic/59
+2024-12-05T15:23:30.715Z - MQTT client 1client60 published to topic: test1/topic/60
+2024-12-05T15:23:30.716Z - MQTT client 1client62 published to topic: test1/topic/62
+2024-12-05T15:23:30.717Z - MQTT client 1client61 published to topic: test1/topic/61
+2024-12-05T15:23:30.717Z - MQTT client 1client65 published to topic: test1/topic/65
+2024-12-05T15:23:30.718Z - MQTT client 1client63 published to topic: test1/topic/63
+2024-12-05T15:23:30.718Z - MQTT client 1client67 published to topic: test1/topic/67
+2024-12-05T15:23:30.719Z - MQTT client 1client64 published to topic: test1/topic/64
+2024-12-05T15:23:30.719Z - MQTT client 1client70 published to topic: test1/topic/70
+2024-12-05T15:23:30.719Z - MQTT client 1client82 published to topic: test1/topic/82
+2024-12-05T15:23:30.720Z - MQTT client 1client68 published to topic: test1/topic/68
+2024-12-05T15:23:30.720Z - MQTT client 1client72 published to topic: test1/topic/72
+2024-12-05T15:23:30.721Z - MQTT client 1client71 published to topic: test1/topic/71
+2024-12-05T15:23:30.721Z - MQTT client 1client73 published to topic: test1/topic/73
+2024-12-05T15:23:30.721Z - MQTT client 1client74 published to topic: test1/topic/74
+2024-12-05T15:23:30.722Z - MQTT client 1client75 published to topic: test1/topic/75
+2024-12-05T15:23:30.722Z - MQTT client 1client76 published to topic: test1/topic/76
+2024-12-05T15:23:31.579Z - MQTT client 1client3 published to topic: test1/topic/3
+2024-12-05T15:23:31.581Z - MQTT client 1client11 published to topic: test1/topic/11
+2024-12-05T15:23:31.586Z - MQTT client 1client13 published to topic: test1/topic/13
+2024-12-05T15:23:31.594Z - MQTT client 1client20 published to topic: test1/topic/20
+2024-12-05T15:23:31.609Z - MQTT client 1client25 published to topic: test1/topic/25
+2024-12-05T15:23:31.610Z - MQTT client 1client22 published to topic: test1/topic/22
+2024-12-05T15:23:31.625Z - MQTT client 1client27 published to topic: test1/topic/27
+2024-12-05T15:23:31.641Z - MQTT client 1client26 published to topic: test1/topic/26
+2024-12-05T15:23:31.642Z - MQTT client 1client0 published to topic: test1/topic/0
+2024-12-05T15:23:31.643Z - MQTT client 1client4 published to topic: test1/topic/4
+2024-12-05T15:23:31.644Z - MQTT client 1client79 published to topic: test1/topic/79
+2024-12-05T15:23:31.645Z - MQTT client 1client95 published to topic: test1/topic/95
+2024-12-05T15:23:31.646Z - MQTT client 1client30 published to topic: test1/topic/30
+2024-12-05T15:23:31.648Z - MQTT client 1client38 published to topic: test1/topic/38
+2024-12-05T15:23:31.652Z - MQTT client 1client5 published to topic: test1/topic/5
+2024-12-05T15:23:31.654Z - MQTT client 1client6 published to topic: test1/topic/6
+2024-12-05T15:23:31.672Z - MQTT client 1client39 published to topic: test1/topic/39
+2024-12-05T15:23:31.674Z - MQTT client 1client8 published to topic: test1/topic/8
+2024-12-05T15:23:31.674Z - MQTT client 1client81 published to topic: test1/topic/81
+2024-12-05T15:23:31.675Z - MQTT client 1client1 published to topic: test1/topic/1
+2024-12-05T15:23:31.676Z - MQTT client 1client7 published to topic: test1/topic/7
+2024-12-05T15:23:31.679Z - MQTT client 1client23 published to topic: test1/topic/23
+2024-12-05T15:23:31.679Z - MQTT client 1client89 published to topic: test1/topic/89
+2024-12-05T15:23:31.680Z - MQTT client 1client32 published to topic: test1/topic/32
+2024-12-05T15:23:31.681Z - MQTT client 1client9 published to topic: test1/topic/9
+2024-12-05T15:23:31.682Z - MQTT client 1client80 published to topic: test1/topic/80
+2024-12-05T15:23:31.682Z - MQTT client 1client88 published to topic: test1/topic/88
+2024-12-05T15:23:31.704Z - MQTT client 1client10 published to topic: test1/topic/10
+2024-12-05T15:23:31.705Z - MQTT client 1client2 published to topic: test1/topic/2
+2024-12-05T15:23:31.706Z - MQTT client 1client92 published to topic: test1/topic/92
+2024-12-05T15:23:31.707Z - MQTT client 1client96 published to topic: test1/topic/96
+2024-12-05T15:23:31.708Z - MQTT client 1client21 published to topic: test1/topic/21
+2024-12-05T15:23:31.709Z - MQTT client 1client31 published to topic: test1/topic/31
+2024-12-05T15:23:31.711Z - MQTT client 1client19 published to topic: test1/topic/19
+2024-12-05T15:23:31.712Z - MQTT client 1client97 published to topic: test1/topic/97
+2024-12-05T15:23:31.712Z - MQTT client 1client40 published to topic: test1/topic/40
+2024-12-05T15:23:31.713Z - MQTT client 1client29 published to topic: test1/topic/29
+2024-12-05T15:23:31.713Z - MQTT client 1client41 published to topic: test1/topic/41
+2024-12-05T15:23:31.714Z - MQTT client 1client99 published to topic: test1/topic/99
+2024-12-05T15:23:31.714Z - MQTT client 1client94 published to topic: test1/topic/94
+2024-12-05T15:23:31.717Z - MQTT client 1client12 published to topic: test1/topic/12
+2024-12-05T15:23:31.717Z - MQTT client 1client16 published to topic: test1/topic/16
+2024-12-05T15:23:31.718Z - MQTT client 1client15 published to topic: test1/topic/15
+2024-12-05T15:23:31.719Z - MQTT client 1client17 published to topic: test1/topic/17
+2024-12-05T15:23:31.720Z - MQTT client 1client28 published to topic: test1/topic/28
+2024-12-05T15:23:31.720Z - MQTT client 1client18 published to topic: test1/topic/18
+2024-12-05T15:23:31.721Z - MQTT client 1client34 published to topic: test1/topic/34
+2024-12-05T15:23:31.722Z - MQTT client 1client36 published to topic: test1/topic/36
+2024-12-05T15:23:31.722Z - MQTT client 1client86 published to topic: test1/topic/86
+2024-12-05T15:23:31.723Z - MQTT client 1client87 published to topic: test1/topic/87
+2024-12-05T15:23:31.723Z - MQTT client 1client93 published to topic: test1/topic/93
+2024-12-05T15:23:31.724Z - MQTT client 1client46 published to topic: test1/topic/46
+2024-12-05T15:23:31.724Z - MQTT client 1client37 published to topic: test1/topic/37
+2024-12-05T15:23:31.724Z - MQTT client 1client24 published to topic: test1/topic/24
+2024-12-05T15:23:31.726Z - MQTT client 1client47 published to topic: test1/topic/47
+2024-12-05T15:23:31.726Z - MQTT client 1client33 published to topic: test1/topic/33
+2024-12-05T15:23:31.727Z - MQTT client 1client48 published to topic: test1/topic/48
+2024-12-05T15:23:31.727Z - MQTT client 1client50 published to topic: test1/topic/50
+2024-12-05T15:23:31.728Z - MQTT client 1client42 published to topic: test1/topic/42
+2024-12-05T15:23:31.728Z - MQTT client 1client44 published to topic: test1/topic/44
+2024-12-05T15:23:31.728Z - MQTT client 1client45 published to topic: test1/topic/45
+2024-12-05T15:23:31.729Z - MQTT client 1client84 published to topic: test1/topic/84
+2024-12-05T15:23:31.729Z - MQTT client 1client85 published to topic: test1/topic/85
+2024-12-05T15:23:31.730Z - MQTT client 1client49 published to topic: test1/topic/49
+2024-12-05T15:23:31.730Z - MQTT client 1client51 published to topic: test1/topic/51
+2024-12-05T15:23:31.731Z - MQTT client 1client52 published to topic: test1/topic/52
+2024-12-05T15:23:31.731Z - MQTT client 1client53 published to topic: test1/topic/53
+2024-12-05T15:23:31.731Z - MQTT client 1client54 published to topic: test1/topic/54
+2024-12-05T15:23:31.732Z - MQTT client 1client55 published to topic: test1/topic/55
+2024-12-05T15:23:31.732Z - MQTT client 1client56 published to topic: test1/topic/56
+2024-12-05T15:23:31.733Z - MQTT client 1client57 published to topic: test1/topic/57
+2024-12-05T15:23:31.733Z - MQTT client 1client58 published to topic: test1/topic/58
+2024-12-05T15:23:31.734Z - MQTT client 1client59 published to topic: test1/topic/59
+2024-12-05T15:23:31.734Z - MQTT client 1client60 published to topic: test1/topic/60
+2024-12-05T15:23:31.735Z - MQTT client 1client62 published to topic: test1/topic/62
+2024-12-05T15:23:31.735Z - MQTT client 1client61 published to topic: test1/topic/61
+2024-12-05T15:23:31.736Z - MQTT client 1client65 published to topic: test1/topic/65
+2024-12-05T15:23:31.736Z - MQTT client 1client63 published to topic: test1/topic/63
+2024-12-05T15:23:31.737Z - MQTT client 1client67 published to topic: test1/topic/67
+2024-12-05T15:23:31.739Z - MQTT client 1client64 published to topic: test1/topic/64
+2024-12-05T15:23:31.740Z - MQTT client 1client70 published to topic: test1/topic/70
+2024-12-05T15:23:31.741Z - MQTT client 1client82 published to topic: test1/topic/82
+2024-12-05T15:23:31.741Z - MQTT client 1client68 published to topic: test1/topic/68
+2024-12-05T15:23:31.742Z - MQTT client 1client72 published to topic: test1/topic/72
+2024-12-05T15:23:31.742Z - MQTT client 1client71 published to topic: test1/topic/71
+2024-12-05T15:23:31.742Z - MQTT client 1client73 published to topic: test1/topic/73
+2024-12-05T15:23:31.743Z - MQTT client 1client74 published to topic: test1/topic/74
+2024-12-05T15:23:31.743Z - MQTT client 1client75 published to topic: test1/topic/75
+2024-12-05T15:23:31.750Z - MQTT client 1client76 published to topic: test1/topic/76
+2024-12-05T15:23:32.592Z - MQTT client 1client3 published to topic: test1/topic/3
+2024-12-05T15:23:32.595Z - MQTT client 1client11 published to topic: test1/topic/11
+2024-12-05T15:23:32.596Z - MQTT client 1client13 published to topic: test1/topic/13
+2024-12-05T15:23:32.599Z - MQTT client 1client20 published to topic: test1/topic/20
+2024-12-05T15:23:32.623Z - MQTT client 1client25 published to topic: test1/topic/25
+2024-12-05T15:23:32.624Z - MQTT client 1client22 published to topic: test1/topic/22
+2024-12-05T15:23:32.625Z - MQTT client 1client27 published to topic: test1/topic/27
+2024-12-05T15:23:32.654Z - MQTT client 1client26 published to topic: test1/topic/26
+2024-12-05T15:23:32.655Z - MQTT client 1client0 published to topic: test1/topic/0
+2024-12-05T15:23:32.656Z - MQTT client 1client4 published to topic: test1/topic/4
+2024-12-05T15:23:32.658Z - MQTT client 1client79 published to topic: test1/topic/79
+2024-12-05T15:23:32.659Z - MQTT client 1client95 published to topic: test1/topic/95
+2024-12-05T15:23:32.662Z - MQTT client 1client30 published to topic: test1/topic/30
+2024-12-05T15:23:32.664Z - MQTT client 1client38 published to topic: test1/topic/38
+2024-12-05T15:23:32.666Z - MQTT client 1client5 published to topic: test1/topic/5
+2024-12-05T15:23:32.666Z - MQTT client 1client6 published to topic: test1/topic/6
+2024-12-05T15:23:32.684Z - MQTT client 1client39 published to topic: test1/topic/39
+2024-12-05T15:23:32.685Z - MQTT client 1client8 published to topic: test1/topic/8
+2024-12-05T15:23:32.687Z - MQTT client 1client81 published to topic: test1/topic/81
+2024-12-05T15:23:32.687Z - MQTT client 1client1 published to topic: test1/topic/1
+2024-12-05T15:23:32.688Z - MQTT client 1client7 published to topic: test1/topic/7
+2024-12-05T15:23:32.688Z - MQTT client 1client23 published to topic: test1/topic/23
+2024-12-05T15:23:32.689Z - MQTT client 1client89 published to topic: test1/topic/89
+2024-12-05T15:23:32.689Z - MQTT client 1client32 published to topic: test1/topic/32
+2024-12-05T15:23:32.690Z - MQTT client 1client9 published to topic: test1/topic/9
+2024-12-05T15:23:32.691Z - MQTT client 1client80 published to topic: test1/topic/80
+2024-12-05T15:23:32.692Z - MQTT client 1client88 published to topic: test1/topic/88
+2024-12-05T15:23:32.715Z - MQTT client 1client10 published to topic: test1/topic/10
+2024-12-05T15:23:32.716Z - MQTT client 1client2 published to topic: test1/topic/2
+2024-12-05T15:23:32.717Z - MQTT client 1client92 published to topic: test1/topic/92
+2024-12-05T15:23:32.718Z - MQTT client 1client96 published to topic: test1/topic/96
+2024-12-05T15:23:32.718Z - MQTT client 1client21 published to topic: test1/topic/21
+2024-12-05T15:23:32.720Z - MQTT client 1client31 published to topic: test1/topic/31
+2024-12-05T15:23:32.721Z - MQTT client 1client19 published to topic: test1/topic/19
+2024-12-05T15:23:32.722Z - MQTT client 1client97 published to topic: test1/topic/97
+2024-12-05T15:23:32.722Z - MQTT client 1client40 published to topic: test1/topic/40
+2024-12-05T15:23:32.723Z - MQTT client 1client29 published to topic: test1/topic/29
+2024-12-05T15:23:32.723Z - MQTT client 1client41 published to topic: test1/topic/41
+2024-12-05T15:23:32.724Z - MQTT client 1client99 published to topic: test1/topic/99
+2024-12-05T15:23:32.724Z - MQTT client 1client94 published to topic: test1/topic/94
+2024-12-05T15:23:32.731Z - MQTT client 1client12 published to topic: test1/topic/12
+2024-12-05T15:23:32.732Z - MQTT client 1client16 published to topic: test1/topic/16
+2024-12-05T15:23:32.732Z - MQTT client 1client15 published to topic: test1/topic/15
+2024-12-05T15:23:32.733Z - MQTT client 1client17 published to topic: test1/topic/17
+2024-12-05T15:23:32.733Z - MQTT client 1client28 published to topic: test1/topic/28
+2024-12-05T15:23:32.734Z - MQTT client 1client18 published to topic: test1/topic/18
+2024-12-05T15:23:32.735Z - MQTT client 1client34 published to topic: test1/topic/34
+2024-12-05T15:23:32.736Z - MQTT client 1client36 published to topic: test1/topic/36
+2024-12-05T15:23:32.737Z - MQTT client 1client86 published to topic: test1/topic/86
+2024-12-05T15:23:32.737Z - MQTT client 1client87 published to topic: test1/topic/87
+2024-12-05T15:23:32.738Z - MQTT client 1client93 published to topic: test1/topic/93
+2024-12-05T15:23:32.738Z - MQTT client 1client46 published to topic: test1/topic/46
+2024-12-05T15:23:32.739Z - MQTT client 1client37 published to topic: test1/topic/37
+2024-12-05T15:23:32.739Z - MQTT client 1client24 published to topic: test1/topic/24
+2024-12-05T15:23:32.740Z - MQTT client 1client47 published to topic: test1/topic/47
+2024-12-05T15:23:32.740Z - MQTT client 1client33 published to topic: test1/topic/33
+2024-12-05T15:23:32.741Z - MQTT client 1client48 published to topic: test1/topic/48
+2024-12-05T15:23:32.741Z - MQTT client 1client50 published to topic: test1/topic/50
+2024-12-05T15:23:32.742Z - MQTT client 1client42 published to topic: test1/topic/42
+2024-12-05T15:23:32.742Z - MQTT client 1client44 published to topic: test1/topic/44
+2024-12-05T15:23:32.742Z - MQTT client 1client45 published to topic: test1/topic/45
+2024-12-05T15:23:32.743Z - MQTT client 1client84 published to topic: test1/topic/84
+2024-12-05T15:23:32.743Z - MQTT client 1client85 published to topic: test1/topic/85
+2024-12-05T15:23:32.743Z - MQTT client 1client49 published to topic: test1/topic/49
+2024-12-05T15:23:32.744Z - MQTT client 1client51 published to topic: test1/topic/51
+2024-12-05T15:23:32.744Z - MQTT client 1client52 published to topic: test1/topic/52
+2024-12-05T15:23:32.744Z - MQTT client 1client53 published to topic: test1/topic/53
+2024-12-05T15:23:32.745Z - MQTT client 1client54 published to topic: test1/topic/54
+2024-12-05T15:23:32.745Z - MQTT client 1client55 published to topic: test1/topic/55
+2024-12-05T15:23:32.747Z - MQTT client 1client56 published to topic: test1/topic/56
+2024-12-05T15:23:32.748Z - MQTT client 1client57 published to topic: test1/topic/57
+2024-12-05T15:23:32.748Z - MQTT client 1client58 published to topic: test1/topic/58
+2024-12-05T15:23:32.749Z - MQTT client 1client59 published to topic: test1/topic/59
+2024-12-05T15:23:32.749Z - MQTT client 1client60 published to topic: test1/topic/60
+2024-12-05T15:23:32.750Z - MQTT client 1client62 published to topic: test1/topic/62
+2024-12-05T15:23:32.750Z - MQTT client 1client61 published to topic: test1/topic/61
+2024-12-05T15:23:32.750Z - MQTT client 1client65 published to topic: test1/topic/65
+2024-12-05T15:23:32.751Z - MQTT client 1client63 published to topic: test1/topic/63
+2024-12-05T15:23:32.751Z - MQTT client 1client67 published to topic: test1/topic/67
+2024-12-05T15:23:32.751Z - MQTT client 1client64 published to topic: test1/topic/64
+2024-12-05T15:23:32.752Z - MQTT client 1client70 published to topic: test1/topic/70
+2024-12-05T15:23:32.752Z - MQTT client 1client82 published to topic: test1/topic/82
+2024-12-05T15:23:32.753Z - MQTT client 1client68 published to topic: test1/topic/68
+2024-12-05T15:23:32.753Z - MQTT client 1client72 published to topic: test1/topic/72
+2024-12-05T15:23:32.753Z - MQTT client 1client71 published to topic: test1/topic/71
+2024-12-05T15:23:32.753Z - MQTT client 1client73 published to topic: test1/topic/73
+2024-12-05T15:23:32.754Z - MQTT client 1client74 published to topic: test1/topic/74
+2024-12-05T15:23:32.754Z - MQTT client 1client75 published to topic: test1/topic/75
+2024-12-05T15:23:32.762Z - MQTT client 1client76 published to topic: test1/topic/76
+2024-12-05T15:23:33.603Z - MQTT client 1client3 published to topic: test1/topic/3
+2024-12-05T15:23:33.605Z - MQTT client 1client11 published to topic: test1/topic/11
+2024-12-05T15:23:33.607Z - MQTT client 1client13 published to topic: test1/topic/13
+2024-12-05T15:23:33.608Z - MQTT client 1client20 published to topic: test1/topic/20
+2024-12-05T15:23:33.635Z - MQTT client 1client25 published to topic: test1/topic/25
+2024-12-05T15:23:33.636Z - MQTT client 1client22 published to topic: test1/topic/22
+2024-12-05T15:23:33.637Z - MQTT client 1client27 published to topic: test1/topic/27
+2024-12-05T15:23:33.666Z - MQTT client 1client26 published to topic: test1/topic/26
+2024-12-05T15:23:33.669Z - MQTT client 1client0 published to topic: test1/topic/0
+2024-12-05T15:23:33.673Z - MQTT client 1client4 published to topic: test1/topic/4
+2024-12-05T15:23:33.675Z - MQTT client 1client79 published to topic: test1/topic/79
+2024-12-05T15:23:33.677Z - MQTT client 1client95 published to topic: test1/topic/95
+2024-12-05T15:23:33.682Z - MQTT client 1client30 published to topic: test1/topic/30
+2024-12-05T15:23:33.684Z - MQTT client 1client38 published to topic: test1/topic/38
+2024-12-05T15:23:33.685Z - MQTT client 1client5 published to topic: test1/topic/5
+2024-12-05T15:23:33.696Z - MQTT client 1client6 published to topic: test1/topic/6
+2024-12-05T15:23:33.697Z - MQTT client 1client39 published to topic: test1/topic/39
+2024-12-05T15:23:33.698Z - MQTT client 1client8 published to topic: test1/topic/8
+2024-12-05T15:23:33.700Z - MQTT client 1client81 published to topic: test1/topic/81
+2024-12-05T15:23:33.701Z - MQTT client 1client1 published to topic: test1/topic/1
+2024-12-05T15:23:33.702Z - MQTT client 1client7 published to topic: test1/topic/7
+2024-12-05T15:23:33.703Z - MQTT client 1client23 published to topic: test1/topic/23
+2024-12-05T15:23:33.704Z - MQTT client 1client89 published to topic: test1/topic/89
+2024-12-05T15:23:33.705Z - MQTT client 1client32 published to topic: test1/topic/32
+2024-12-05T15:23:33.705Z - MQTT client 1client9 published to topic: test1/topic/9
+2024-12-05T15:23:33.706Z - MQTT client 1client80 published to topic: test1/topic/80
+2024-12-05T15:23:33.706Z - MQTT client 1client88 published to topic: test1/topic/88
+2024-12-05T15:23:33.727Z - MQTT client 1client10 published to topic: test1/topic/10
+2024-12-05T15:23:33.728Z - MQTT client 1client2 published to topic: test1/topic/2
+2024-12-05T15:23:33.728Z - MQTT client 1client92 published to topic: test1/topic/92
+2024-12-05T15:23:33.729Z - MQTT client 1client96 published to topic: test1/topic/96
+2024-12-05T15:23:33.729Z - MQTT client 1client21 published to topic: test1/topic/21
+2024-12-05T15:23:33.730Z - MQTT client 1client31 published to topic: test1/topic/31
+2024-12-05T15:23:33.730Z - MQTT client 1client19 published to topic: test1/topic/19
+2024-12-05T15:23:33.731Z - MQTT client 1client97 published to topic: test1/topic/97
+2024-12-05T15:23:33.732Z - MQTT client 1client40 published to topic: test1/topic/40
+2024-12-05T15:23:33.733Z - MQTT client 1client29 published to topic: test1/topic/29
+2024-12-05T15:23:33.733Z - MQTT client 1client41 published to topic: test1/topic/41
+2024-12-05T15:23:33.733Z - MQTT client 1client99 published to topic: test1/topic/99
+2024-12-05T15:23:33.734Z - MQTT client 1client94 published to topic: test1/topic/94
+2024-12-05T15:23:33.734Z - MQTT client 1client12 published to topic: test1/topic/12
+2024-12-05T15:23:33.735Z - MQTT client 1client16 published to topic: test1/topic/16
+2024-12-05T15:23:33.737Z - MQTT client 1client15 published to topic: test1/topic/15
+2024-12-05T15:23:33.738Z - MQTT client 1client17 published to topic: test1/topic/17
+2024-12-05T15:23:33.738Z - MQTT client 1client28 published to topic: test1/topic/28
+2024-12-05T15:23:33.739Z - MQTT client 1client18 published to topic: test1/topic/18
+2024-12-05T15:23:33.742Z - MQTT client 1client34 published to topic: test1/topic/34
+2024-12-05T15:23:33.743Z - MQTT client 1client36 published to topic: test1/topic/36
+2024-12-05T15:23:33.743Z - MQTT client 1client86 published to topic: test1/topic/86
+2024-12-05T15:23:33.744Z - MQTT client 1client87 published to topic: test1/topic/87
+2024-12-05T15:23:33.744Z - MQTT client 1client93 published to topic: test1/topic/93
+2024-12-05T15:23:33.745Z - MQTT client 1client46 published to topic: test1/topic/46
+2024-12-05T15:23:33.746Z - MQTT client 1client37 published to topic: test1/topic/37
+2024-12-05T15:23:33.749Z - MQTT client 1client24 published to topic: test1/topic/24
+2024-12-05T15:23:33.752Z - MQTT client 1client47 published to topic: test1/topic/47
+2024-12-05T15:23:33.754Z - MQTT client 1client33 published to topic: test1/topic/33
+2024-12-05T15:23:33.754Z - MQTT client 1client48 published to topic: test1/topic/48
+2024-12-05T15:23:33.755Z - MQTT client 1client50 published to topic: test1/topic/50
+2024-12-05T15:23:33.755Z - MQTT client 1client42 published to topic: test1/topic/42
+2024-12-05T15:23:33.756Z - MQTT client 1client44 published to topic: test1/topic/44
+2024-12-05T15:23:33.756Z - MQTT client 1client45 published to topic: test1/topic/45
+2024-12-05T15:23:33.757Z - MQTT client 1client84 published to topic: test1/topic/84
+2024-12-05T15:23:33.759Z - MQTT client 1client85 published to topic: test1/topic/85
+2024-12-05T15:23:33.759Z - MQTT client 1client49 published to topic: test1/topic/49
+2024-12-05T15:23:33.760Z - MQTT client 1client51 published to topic: test1/topic/51
+2024-12-05T15:23:33.760Z - MQTT client 1client52 published to topic: test1/topic/52
+2024-12-05T15:23:33.760Z - MQTT client 1client53 published to topic: test1/topic/53
+2024-12-05T15:23:33.761Z - MQTT client 1client54 published to topic: test1/topic/54
+2024-12-05T15:23:33.761Z - MQTT client 1client55 published to topic: test1/topic/55
+2024-12-05T15:23:33.761Z - MQTT client 1client56 published to topic: test1/topic/56
+2024-12-05T15:23:33.762Z - MQTT client 1client57 published to topic: test1/topic/57
+2024-12-05T15:23:33.762Z - MQTT client 1client58 published to topic: test1/topic/58
+2024-12-05T15:23:33.763Z - MQTT client 1client59 published to topic: test1/topic/59
+2024-12-05T15:23:33.763Z - MQTT client 1client60 published to topic: test1/topic/60
+2024-12-05T15:23:33.763Z - MQTT client 1client62 published to topic: test1/topic/62
+2024-12-05T15:23:33.764Z - MQTT client 1client61 published to topic: test1/topic/61
+2024-12-05T15:23:33.764Z - MQTT client 1client65 published to topic: test1/topic/65
+2024-12-05T15:23:33.765Z - MQTT client 1client63 published to topic: test1/topic/63
+2024-12-05T15:23:33.765Z - MQTT client 1client67 published to topic: test1/topic/67
+2024-12-05T15:23:33.765Z - MQTT client 1client64 published to topic: test1/topic/64
+2024-12-05T15:23:33.766Z - MQTT client 1client70 published to topic: test1/topic/70
+2024-12-05T15:23:33.766Z - MQTT client 1client82 published to topic: test1/topic/82
+2024-12-05T15:23:33.767Z - MQTT client 1client68 published to topic: test1/topic/68
+2024-12-05T15:23:33.767Z - MQTT client 1client72 published to topic: test1/topic/72
+2024-12-05T15:23:33.767Z - MQTT client 1client71 published to topic: test1/topic/71
+2024-12-05T15:23:33.768Z - MQTT client 1client73 published to topic: test1/topic/73
+2024-12-05T15:23:33.768Z - MQTT client 1client74 published to topic: test1/topic/74
+2024-12-05T15:23:33.768Z - MQTT client 1client75 published to topic: test1/topic/75
+2024-12-05T15:23:33.773Z - MQTT client 1client76 published to topic: test1/topic/76
+2024-12-05T15:23:34.613Z - MQTT client 1client3 published to topic: test1/topic/3
+2024-12-05T15:23:34.621Z - MQTT client 1client11 published to topic: test1/topic/11
+2024-12-05T15:23:34.624Z - MQTT client 1client13 published to topic: test1/topic/13
+2024-12-05T15:23:34.626Z - MQTT client 1client20 published to topic: test1/topic/20
+2024-12-05T15:23:34.644Z - MQTT client 1client25 published to topic: test1/topic/25
+2024-12-05T15:23:34.659Z - MQTT client 1client22 published to topic: test1/topic/22
+2024-12-05T15:23:34.660Z - MQTT client 1client27 published to topic: test1/topic/27
+2024-12-05T15:23:34.675Z - MQTT client 1client26 published to topic: test1/topic/26
+2024-12-05T15:23:34.678Z - MQTT client 1client0 published to topic: test1/topic/0
+2024-12-05T15:23:34.679Z - MQTT client 1client4 published to topic: test1/topic/4
+2024-12-05T15:23:34.682Z - MQTT client 1client79 published to topic: test1/topic/79
+2024-12-05T15:23:34.684Z - MQTT client 1client95 published to topic: test1/topic/95
+2024-12-05T15:23:34.687Z - MQTT client 1client30 published to topic: test1/topic/30
+2024-12-05T15:23:34.688Z - MQTT client 1client38 published to topic: test1/topic/38
+2024-12-05T15:23:34.689Z - MQTT client 1client5 published to topic: test1/topic/5
+2024-12-05T15:23:34.706Z - MQTT client 1client6 published to topic: test1/topic/6
+2024-12-05T15:23:34.706Z - MQTT client 1client39 published to topic: test1/topic/39
+2024-12-05T15:23:34.707Z - MQTT client 1client8 published to topic: test1/topic/8
+2024-12-05T15:23:34.708Z - MQTT client 1client81 published to topic: test1/topic/81
+2024-12-05T15:23:34.709Z - MQTT client 1client1 published to topic: test1/topic/1
+2024-12-05T15:23:34.710Z - MQTT client 1client7 published to topic: test1/topic/7
+2024-12-05T15:23:34.710Z - MQTT client 1client23 published to topic: test1/topic/23
+2024-12-05T15:23:34.711Z - MQTT client 1client89 published to topic: test1/topic/89
+2024-12-05T15:23:34.712Z - MQTT client 1client32 published to topic: test1/topic/32
+2024-12-05T15:23:34.712Z - MQTT client 1client9 published to topic: test1/topic/9
+2024-12-05T15:23:34.713Z - MQTT client 1client80 published to topic: test1/topic/80
+2024-12-05T15:23:34.714Z - MQTT client 1client88 published to topic: test1/topic/88
+2024-12-05T15:23:34.736Z - MQTT client 1client10 published to topic: test1/topic/10
+2024-12-05T15:23:34.737Z - MQTT client 1client2 published to topic: test1/topic/2
+2024-12-05T15:23:34.738Z - MQTT client 1client92 published to topic: test1/topic/92
+2024-12-05T15:23:34.743Z - MQTT client 1client96 published to topic: test1/topic/96
+2024-12-05T15:23:34.743Z - MQTT client 1client21 published to topic: test1/topic/21
+2024-12-05T15:23:34.744Z - MQTT client 1client31 published to topic: test1/topic/31
+2024-12-05T15:23:34.747Z - MQTT client 1client19 published to topic: test1/topic/19
+2024-12-05T15:23:34.748Z - MQTT client 1client97 published to topic: test1/topic/97
+2024-12-05T15:23:34.750Z - MQTT client 1client40 published to topic: test1/topic/40
+2024-12-05T15:23:34.750Z - MQTT client 1client29 published to topic: test1/topic/29
+2024-12-05T15:23:34.751Z - MQTT client 1client41 published to topic: test1/topic/41
+2024-12-05T15:23:34.751Z - MQTT client 1client99 published to topic: test1/topic/99
+2024-12-05T15:23:34.752Z - MQTT client 1client94 published to topic: test1/topic/94
+2024-12-05T15:23:34.752Z - MQTT client 1client12 published to topic: test1/topic/12
+2024-12-05T15:23:34.752Z - MQTT client 1client16 published to topic: test1/topic/16
+2024-12-05T15:23:34.767Z - MQTT client 1client15 published to topic: test1/topic/15
+2024-12-05T15:23:34.768Z - MQTT client 1client17 published to topic: test1/topic/17
+2024-12-05T15:23:34.768Z - MQTT client 1client28 published to topic: test1/topic/28
+2024-12-05T15:23:34.768Z - MQTT client 1client18 published to topic: test1/topic/18
+2024-12-05T15:23:34.769Z - MQTT client 1client34 published to topic: test1/topic/34
+2024-12-05T15:23:34.769Z - MQTT client 1client36 published to topic: test1/topic/36
+2024-12-05T15:23:34.769Z - MQTT client 1client86 published to topic: test1/topic/86
+2024-12-05T15:23:34.770Z - MQTT client 1client87 published to topic: test1/topic/87
+2024-12-05T15:23:34.770Z - MQTT client 1client93 published to topic: test1/topic/93
+2024-12-05T15:23:34.771Z - MQTT client 1client46 published to topic: test1/topic/46
+2024-12-05T15:23:34.771Z - MQTT client 1client37 published to topic: test1/topic/37
+2024-12-05T15:23:34.772Z - MQTT client 1client24 published to topic: test1/topic/24
+2024-12-05T15:23:34.774Z - MQTT client 1client47 published to topic: test1/topic/47
+2024-12-05T15:23:34.774Z - MQTT client 1client33 published to topic: test1/topic/33
+2024-12-05T15:23:34.775Z - MQTT client 1client48 published to topic: test1/topic/48
+2024-12-05T15:23:34.776Z - MQTT client 1client50 published to topic: test1/topic/50
+2024-12-05T15:23:34.776Z - MQTT client 1client42 published to topic: test1/topic/42
+2024-12-05T15:23:34.777Z - MQTT client 1client44 published to topic: test1/topic/44
+2024-12-05T15:23:34.778Z - MQTT client 1client45 published to topic: test1/topic/45
+2024-12-05T15:23:34.778Z - MQTT client 1client84 published to topic: test1/topic/84
+2024-12-05T15:23:34.779Z - MQTT client 1client85 published to topic: test1/topic/85
+2024-12-05T15:23:34.780Z - MQTT client 1client49 published to topic: test1/topic/49
+2024-12-05T15:23:34.785Z - MQTT client 1client51 published to topic: test1/topic/51
+2024-12-05T15:23:34.787Z - MQTT client 1client52 published to topic: test1/topic/52
+2024-12-05T15:23:34.787Z - MQTT client 1client53 published to topic: test1/topic/53
+2024-12-05T15:23:34.789Z - MQTT client 1client54 published to topic: test1/topic/54
+2024-12-05T15:23:34.790Z - MQTT client 1client55 published to topic: test1/topic/55
+2024-12-05T15:23:34.790Z - MQTT client 1client56 published to topic: test1/topic/56
+2024-12-05T15:23:34.790Z - MQTT client 1client57 published to topic: test1/topic/57
+2024-12-05T15:23:34.791Z - MQTT client 1client58 published to topic: test1/topic/58
+2024-12-05T15:23:34.791Z - MQTT client 1client59 published to topic: test1/topic/59
+2024-12-05T15:23:34.792Z - MQTT client 1client60 published to topic: test1/topic/60
+2024-12-05T15:23:34.792Z - MQTT client 1client62 published to topic: test1/topic/62
+2024-12-05T15:23:34.793Z - MQTT client 1client61 published to topic: test1/topic/61
+2024-12-05T15:23:34.793Z - MQTT client 1client65 published to topic: test1/topic/65
+2024-12-05T15:23:34.793Z - MQTT client 1client63 published to topic: test1/topic/63
+2024-12-05T15:23:34.794Z - MQTT client 1client67 published to topic: test1/topic/67
+2024-12-05T15:23:34.794Z - MQTT client 1client64 published to topic: test1/topic/64
+2024-12-05T15:23:34.794Z - MQTT client 1client70 published to topic: test1/topic/70
+2024-12-05T15:23:34.795Z - MQTT client 1client82 published to topic: test1/topic/82
+2024-12-05T15:23:34.798Z - MQTT client 1client68 published to topic: test1/topic/68
+2024-12-05T15:23:34.798Z - MQTT client 1client72 published to topic: test1/topic/72
+2024-12-05T15:23:34.799Z - MQTT client 1client71 published to topic: test1/topic/71
+2024-12-05T15:23:34.799Z - MQTT client 1client73 published to topic: test1/topic/73
+2024-12-05T15:23:34.813Z - MQTT client 1client74 published to topic: test1/topic/74
+2024-12-05T15:23:34.814Z - MQTT client 1client75 published to topic: test1/topic/75
+2024-12-05T15:23:34.815Z - MQTT client 1client76 published to topic: test1/topic/76
